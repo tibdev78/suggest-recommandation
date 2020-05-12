@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+}
+
+group 'com.esgi.bigdata'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile(project(':tools'))
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'org.apache.spark', name: 'spark-core_2.12', version: '2.4.5'
+    compile group: 'org.apache.spark', name: 'spark-sql_2.12', version: '2.4.5'
+    compile group: 'org.apache.spark', name: 'spark-mllib_2.12', version: '2.4.5'
+}

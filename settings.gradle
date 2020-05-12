@@ -1,0 +1,4 @@
+rootProject.name = 'esgi'
+include 'reader'
+include 'ngrams'
+include 'tools'
