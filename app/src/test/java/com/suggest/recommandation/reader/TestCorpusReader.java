@@ -9,7 +9,7 @@ import java.util.TreeSet;
 
 public class TestCorpusReader {
     /** path of the file that contains the text to read */
-    private final static String PATH = TestCorpusReader.class.getClassLoader().getResource("test_reader.txt").getFile();
+    private final static String PATH = TestCorpusReader.class.getClassLoader().getResource("general.txt").getFile();
 
     @Test
     public void testInit() {
