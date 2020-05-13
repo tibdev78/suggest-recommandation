@@ -20,6 +20,7 @@ public class TestNGramsCsvExporter {
         NGramsCsvExporter exporter = new NGramsCsvExporter();
         List<String> lines = exporter.exportToLines(PATH,2);
         String previousLine = null ;
+        System.out.println(lines);
         for(String line : lines) {
             String[] words = line.split(",");
             if (words.length != 2) Assert.assertEquals("baylon,,",line);
