@@ -3,13 +3,55 @@ package com.suggest.recommandation.tools;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 import java.util.Scanner;
 
 public class CsvWriter {
+    private static final List<String> prepositions = Arrays.asList(
+            "A","après","avant","avex","chez","concernant","contre","dans","de", "à", "la", "au",
+            "depuis","derrière","dès","devant","durant","en","entre","envers","hormis", "des",
+            "hors","jusque","malgré","moyennant","nonobstant","outre","par","parmi", "aux",
+            "pendant","pour","près","sans","sauf","selon","sous","suivant","sur","touchant","vers","via",
+            "avant", "après", "au", "grâce","hors","loin","lors","par","par suite","près",
+            "proche","quant","quitte","sauf","sous", "et"
+    );
     private final static String PATH = CsvWriter.class.getClassLoader().getResource("food.csv").getFile();
 
-    public static void main(String[] args) throws FileNotFoundException {
-        try (PrintWriter writer = new PrintWriter(new File("output/step1.csv"))) {
+    private static void generate2GramFromCsv() throws FileNotFoundException {
+        try (PrintWriter writer = new PrintWriter(new File("output/step1_2Gram.csv"))) {
+            String sb = "PREVIOUS,CURRENT"  + '\n';
+            writer.write(sb);
+            Scanner myReader = new Scanner(new File(PATH));
+            while (myReader.hasNextLine()) {
+                String data = myReader.nextLine();
+                String[] parts = data.replace("\"", "").split(" ");
+                ArrayList<String> cleanParts = new ArrayList<>();
+                StringBuilder builder = new StringBuilder();
+                for (String part : parts) {
+                    String word = part.trim();
+                    if (prepositions.contains(word)) builder.append(word).append(" ");
+                    else {
+                        if (builder.length() > 0) {
+                            cleanParts.add(builder.toString().trim() + " " + word);
+                            builder = new StringBuilder();
+                        }
+                        else cleanParts.add(word);
+                    }
+                }
+                for (int i = 0; i < cleanParts.size(); i++) {
+                    if (i < cleanParts.size() - 1) {
+                        writer.write(cleanParts.get(i) + ',' + cleanParts.get(i + 1) + '\n');
+                    }
+                }
+            }
+            myReader.close();
+        }
+    }
+
+    private static void generate3GramFromCsv() throws FileNotFoundException {
+        try (PrintWriter writer = new PrintWriter(new File("output/step1_3Gram.csv"))) {
             String sb = "PREVIOUS,CURRENT"  + '\n';
             writer.write(sb);
             Scanner myReader = new Scanner(new File(PATH));
@@ -24,6 +66,60 @@ public class CsvWriter {
             }
             myReader.close();
         }
+    }
+
+    private static void testWithPreposition2Gram() {
+        String str = "Poulet à la citronnelle au caramel et au beurre salé";
+        String[] parts = str.replace("\"", "").split(" ");
+        ArrayList<String> cleanParts = new ArrayList<>();
+        StringBuilder builder = new StringBuilder();
+        for (String part : parts) {
+            String word = part.trim();
+            if (prepositions.contains(word)) builder.append(word).append(" ");
+            else {
+                if (builder.length() > 0) {
+                    cleanParts.add(builder.toString().trim() + " " + word);
+                    builder = new StringBuilder();
+                }
+                else cleanParts.add(word);
+            }
+        }
+        System.out.println(Arrays.toString(cleanParts.toArray()));
+        for (int i = 0; i < cleanParts.size(); i++) {
+            if (i < cleanParts.size() - 1) {
+                System.out.print(cleanParts.get(i) + ',' + cleanParts.get(i + 1) + '\n');
+            }
+        }
+    }
+
+    private static void testWithPreposition3Gram() {
+        String str = "Poulet à la citronnelle au caramel et au beurre salé";
+        String[] parts = str.replace("\"", "").split(" ");
+        ArrayList<String> cleanParts = new ArrayList<>();
+        StringBuilder builder = new StringBuilder();
+        for (String part : parts) {
+            String word = part.trim();
+            if (prepositions.contains(word)) builder.append(word).append(" ");
+            else {
+                if (builder.length() > 0) {
+                    cleanParts.add(builder.toString().trim() + " " + word);
+                    builder = new StringBuilder();
+                }
+                else cleanParts.add(word);
+            }
+        }
+        System.out.println(Arrays.toString(cleanParts.toArray()));
+        for (int i = 0; i < cleanParts.size(); i++) {
+            if (i < cleanParts.size() - 1) {
+                System.out.print(cleanParts.get(i) + ',' + cleanParts.get(i + 1) + '\n');
+            }
+        }
+    }
+
+    public static void main(String[] args) throws FileNotFoundException {
+        testWithPreposition3Gram();
+        //generate2GramFromCsv();
+        //generate3GramFromCsv();
     }
 
 }
