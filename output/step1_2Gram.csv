@@ -74,8 +74,7 @@ Profite,roles,
 Brioche,perdue,
 Gateau,Basque,
 Croustillant,de fraises
-de fraises,et
-et,de framboises,
+de fraises,et de framboises,
 Filet,de bceuf
 de bceuf,poélé,
 Galette,de socca
@@ -209,17 +208,15 @@ du,Pilat,
 Påté,en croüte
 en croüte,aux ris
 aux ris,de veau
-de veau,et
-et,foie
-foie,gras,
+de veau,et foie
+et foie,gras,
 Quenelle,de brochet,
 sauce,Nantua,
 Gåteau,de foie
 de foie,de volaille,
 créme,d'écrevlsses
-d'écrevlsses,et
-et,risotto
-risotto,aux champignons,
+d'écrevlsses,et risotto
+et risotto,aux champignons,
 Saint,cochon
 cochon,du
 du,Bistrot,
@@ -257,8 +254,7 @@ aux fruits,de mer,
 Potage,de raviolis
 de raviolis,chinois,
 Potage,aux asperges
-aux asperges,et
-et,crabe,
+aux asperges,et crabe,
 Potage,de poulet
 de poulet,aux vermicelless
 aux vermicelless,chinoises,
@@ -274,8 +270,7 @@ Potage,Saïgonnais,
 Salade,chinoise
 chinoise,auk
 auk,crevettes
-crevettes,et
-et,crabe,
+crevettes,et crabe,
 Salade,au crabe,
 Salade,aux crevettes,
 Salade,au poulet,
@@ -295,8 +290,7 @@ Omelette,aux crevettes,
 Crevettes,en beignet,
 Plateau,de Lotus
 de Lotus,Chaud
-Chaud,et
-et,froid,
+Chaud,et froid,
 Crevettes,sautées,
 Crevettes,sauce
 sauce,aigre-douce,
@@ -312,8 +306,7 @@ de Poisson,à la sauce
 Seiches,à la sauce
 à la sauce,pékinoise,
 Seiches,au sel
-au sel,et
-et,au poivre,
+au sel,et au poivre,
 Canard,aux cinq
 aux cinq,parfums,
 Canard,au curry,
@@ -378,8 +371,7 @@ Coquilles,St-Jacques
 St-Jacques,sautées,
 Coquilles,St-Jacques
 St-Jacques,au sel
-au sel,et
-et,poivre,
+au sel,et poivre,
 Coquilles,St-Jacques
 St-Jacques,en beignet,
 Coquilles,St-Jacgues,
@@ -392,8 +384,7 @@ St-Jacques,aux noix
 aux noix,de ceou,
 Grosses,crevettes
 crevettes,sel
-sel,et
-et,poivre,
+sel,et poivre,
 Grosses,crevettes
 crevettes,Ia
 Ia,citronnelle,
@@ -412,8 +403,7 @@ de porc,au caramel,
 Travers,de porc
 de porc,grillés
 grillés,au sel
-au sel,et
-et,au poivre,
+au sel,et au poivre,
 Canard,pékinois,
 OIGNON,BHAJA,
 AUBERGINE,BHAJA
@@ -575,14 +565,12 @@ Raviolis,pékinois
 pékinois,frits,
 Beignets,de crevettes,
 Potage,aux asperges
-aux asperges,et
-et,à la chair
-à la chair,de crabe,
+aux asperges,et à la chair
+et à la chair,de crabe,
 Potage,pékinois
 pékinois,(épicé),
 Potage,au poulet
-au poulet,et
-et,aux vermicelles,
+au poulet,et aux vermicelles,
 Soupe,aux raviolis,
 Potage,fruits
 fruits,de mer
