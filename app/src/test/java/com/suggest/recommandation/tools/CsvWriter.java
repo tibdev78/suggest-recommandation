@@ -58,9 +58,23 @@ public class CsvWriter {
             while (myReader.hasNextLine()) {
                 String data = myReader.nextLine();
                 String[] parts = data.replace("\"", "").split(" ");
-                for (int i = 0; i < parts.length; i++) {
-                    if (i < parts.length - 1) {
-                        writer.write(parts[i] + ',' + parts[i + 1] + '\n');
+
+                ArrayList<String> cleanParts = new ArrayList<>();
+                StringBuilder builder = new StringBuilder();
+                for (String part : parts) {
+                    String word = part.trim();
+                    if (prepositions.contains(word)) builder.append(word).append(" ");
+                    else {
+                        if (builder.length() > 0) {
+                            cleanParts.add(builder.toString().trim() + " " + word);
+                            builder = new StringBuilder();
+                        }
+                        else cleanParts.add(word);
+                    }
+                }
+                for (int i = 0; i < cleanParts.size(); i++) {
+                    if (i < cleanParts.size() - 2) {
+                        writer.write(cleanParts.get(i) + ' ' + cleanParts.get(i + 1) +',' + cleanParts.get(i + 2)+ '\n');
                     }
                 }
             }
@@ -68,58 +82,9 @@ public class CsvWriter {
         }
     }
 
-    private static void testWithPreposition2Gram() {
-        String str = "Poulet à la citronnelle au caramel et au beurre salé";
-        String[] parts = str.replace("\"", "").split(" ");
-        ArrayList<String> cleanParts = new ArrayList<>();
-        StringBuilder builder = new StringBuilder();
-        for (String part : parts) {
-            String word = part.trim();
-            if (prepositions.contains(word)) builder.append(word).append(" ");
-            else {
-                if (builder.length() > 0) {
-                    cleanParts.add(builder.toString().trim() + " " + word);
-                    builder = new StringBuilder();
-                }
-                else cleanParts.add(word);
-            }
-        }
-        System.out.println(Arrays.toString(cleanParts.toArray()));
-        for (int i = 0; i < cleanParts.size(); i++) {
-            if (i < cleanParts.size() - 1) {
-                System.out.print(cleanParts.get(i) + ',' + cleanParts.get(i + 1) + '\n');
-            }
-        }
-    }
-
-    private static void testWithPreposition3Gram() {
-        String str = "Poulet à la citronnelle au caramel et au beurre salé";
-        String[] parts = str.replace("\"", "").split(" ");
-        ArrayList<String> cleanParts = new ArrayList<>();
-        StringBuilder builder = new StringBuilder();
-        for (String part : parts) {
-            String word = part.trim();
-            if (prepositions.contains(word)) builder.append(word).append(" ");
-            else {
-                if (builder.length() > 0) {
-                    cleanParts.add(builder.toString().trim() + " " + word);
-                    builder = new StringBuilder();
-                }
-                else cleanParts.add(word);
-            }
-        }
-        System.out.println(Arrays.toString(cleanParts.toArray()));
-        for (int i = 0; i < cleanParts.size(); i++) {
-            if (i < cleanParts.size() - 1) {
-                System.out.print(cleanParts.get(i) + ',' + cleanParts.get(i + 1) + '\n');
-            }
-        }
-    }
-
     public static void main(String[] args) throws FileNotFoundException {
-        testWithPreposition3Gram();
-        //generate2GramFromCsv();
-        //generate3GramFromCsv();
+        generate2GramFromCsv();
+        generate3GramFromCsv();
     }
 
 }
