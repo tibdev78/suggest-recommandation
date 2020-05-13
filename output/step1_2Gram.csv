@@ -1,0 +1,743 @@
+PREVIOUS,CURRENT
+Pizza,au lardon,
+Antipasto,al
+al,All,
+Pate,Bruschetta,
+Pate,fraiche,
+Tagliatelle,Linguine,
+Lasagne,al
+al,forno,
+Risotto,Po,
+Pate,Gnocchi
+Gnocchi,Gorgonzola
+Gorgonzola,e
+e,Noc,
+Pizza,Ravioli
+Ravioli,ai
+ai,Funghi
+Funghi,Porcini,
+Pizza,Chitarra
+Chitarra,Fusilli
+Fusilli,Maccheroni,
+Pizza,margherita,
+Pizza,Sauce
+Sauce,tomate
+tomate,mozzarella
+mozzarella,origan,
+Pizza,Parma,
+Pizza,Marchesi,
+Pizza,Mortadella
+Mortadella,Ia
+Ia,Truffe
+Truffe,artichaut,
+Pizza,Napolitain,
+Pizza,Bufflonne
+Bufflonne,thon
+thon,courgettes,
+Pizza,Cesaroni,
+Pizza,Diavola,
+Mozzarella,parmesan
+parmesan,basilic,
+Copeaux,de parmesan,
+Boeuf,roquette,
+Caro,mel,
+Crostatina,al
+al,Limone,
+Terrine,de Foie
+de Foie,Gras
+Gras,de Canard,
+Jambon,Bellota,
+Tomate,Jouno
+Jouno,Burrata,
+Salade,de chévre
+de chévre,chaud,
+Poélée,de crevettes,
+Piment,despelette,
+Oeuf,cocotte
+cocotte,au Foie
+au Foie,Gras
+Gras,de Canard
+Jambon,Basque,
+Filet,de boeuf
+de boeuf,Angus,
+Ris,de veau
+de veau,de coeur,
+Filet,mignon
+mignon,de porc
+de porc,ibérique
+Magret,de canard,
+Dos,de Cabillaud,
+Noix,de saint
+de saint,Jacques
+Confit,de canard,
+Profite,roles,
+Brioche,perdue,
+Gateau,Basque,
+Croustillant,de fraises
+de fraises,et
+et,de framboises,
+Filet,de bceuf
+de bceuf,poélé,
+Galette,de socca
+de socca,Ratatouille
+Ratatouille,nigolse,
+Salade,de Mozzarella,
+Salade,Lyonnaise,
+Salade,caprese,
+Carpaccio,de boeuf,
+Pizza,toscane,
+Pate,Rigatoni,
+Escalope,la parmiggiana,
+Pommes,de terre
+de terre,paprika,
+Salade,coleslaw,
+Soupe,de légumes,
+Boulette,de boeuf
+de boeuf,épicé,
+Tiramisu,à la violette,
+Tarte,Tatin
+Tatin,aux fruit
+aux fruit,de saison,
+Cookie,chocolat,
+Panacotta,fruit
+fruit,rouge,
+Mozzarella,champignons,
+Mozzarella,courgettes,
+Mozzarella,pecorino,
+Mozzarella,jambon
+jambon,fumé,
+Mozzarella,saucisse
+saucisse,piquante,
+Pizza,Diavola,
+Pizza,Boscaiola,
+Pizza,Rustica,
+Pizza,Zucchine,
+Pizza,Cremosa,
+Pizza,Carciofina,
+Burger,Galileo,
+Burger,Leonardo,
+Burger,Végétarien,
+SORBET,CASSIS,
+SORBET,MANGUE,
+SORBET,CITRON,
+SORBET,FRAMBOISE,
+GLACE,FRAISE
+FRAISE,DES
+DES,BOIS,
+Glace,menthe,
+Glace,Noisette,
+Glace,Marrons
+Marrons,glacés,
+Glace,Figue,
+Sorbet,Fraises,
+Sorbet,Fraises
+Fraises,Framboise,
+Sorbet,Framboise,
+Sorbet,Fruits
+Fruits,de la passion,
+Sorbet,Mangue,
+Noix,de st
+de st,jacques,
+Cochon,iberique,
+bette,rave,
+St,Marcellin
+Marcellin,Chaud,
+bisque,de homard,
+Profiteroles,géantes,
+Mousse,au chocolat,
+Creme,brulee,
+Brandade,de Morue
+de Morue,Fraiche,
+Petite,Salade
+Salade,de Roquette,
+Fish,and
+and,Chips,
+Poulet,Fermier
+Fermier,la Créme,
+Riz,Pilaf,
+Petit,Salé
+Salé,aux Lentilles
+Aile,de Raie
+de Raie,Crenobloise,
+Pommes,Vapeur,
+Tarte,au Citron
+au Citron,Meringuée,
+Millefeuille,la Vanille
+la Vanille,Bourbon,
+Tarte,aux Pralines
+aux Pralines,Roses
+Roses,de Saint-
+de Saint-,Cenix,
+Le,Saint-Honoré,
+Tarte,Tatin
+Tatin,Revisitée,
+Wings,de poulet,
+Tempuras,de I'égumes,
+Wings,de poulet,
+onion,rings,
+ribs,de porc
+de porc,marinés,
+Camembert,Cceur
+Cceur,de Lion,
+Emmental,bouchées
+bouchées,au Cheddar,
+Viande,Tartare,
+Tempuras,de Iégumes,
+brocolis,à la crème,
+choux-fleurs,à la crème,
+FILET,DE
+DE,BOEUF
+BOEUF,CHATEAUBRIAND,
+Le,persillé,
+TARTARE,AUX
+AUX,COUTEAUX,
+Tartare,assaisonné,
+Ribs,de porc
+de porc,marinés,
+TARTARE,AUX
+AUX,COUTEAUX,
+TARTARE,CLASSIQUE,
+Carpacio,de boeuf,
+Cote,de boeuf
+de boeuf,assaisonné,
+Salade,lyonnaise,
+Tarte,tiéde
+tiéde,au boudin
+au boudin,noir,
+Pommes,du
+du,Pilat,
+Påté,en croüte
+en croüte,aux ris
+aux ris,de veau
+de veau,et
+et,foie
+foie,gras,
+Quenelle,de brochet,
+sauce,Nantua,
+Gåteau,de foie
+de foie,de volaille,
+créme,d'écrevlsses
+d'écrevlsses,et
+et,risotto
+risotto,aux champignons,
+Saint,cochon
+cochon,du
+du,Bistrot,
+boudin,noir,
+LE,PAVÉ
+PAVÉ,DE
+DE,BOEUF,
+Mayonnaise,aux herbes
+aux herbes,Chimichurri,
+Fromage,d'Auvergne,
+LE,TARTARE
+TARTARE,DU
+DU,PIÉMONT,
+LE,STEAK
+STEAK,CHEVAL,
+Steak,haché
+haché,frais,
+LA,POUTINE
+POUTINE,CHEDDAR
+CHEDDAR,&
+&,BACON,
+Spécialités,la vapeur,
+Raviolis,aux Iégumes,
+Raviolis,au poulet,
+Raviolis,aux crevettes,
+Bcwchées,de crevettes
+de crevettes,wapeur,
+Bouchées,de porc,
+Bouchées,de boeuf,
+Roviolis,pékinois
+pékinois,villés,
+Potage,de maison
+de maison,aux fruits
+aux fruits,de mer,
+Potage,de raviolis
+de raviolis,chinois,
+Potage,aux asperges
+aux asperges,et
+et,crabe,
+Potage,de poulet
+de poulet,aux vermicelless
+aux vermicelless,chinoises,
+Potage,de poulet
+de poulet,aux nouilles
+aux nouilles,chinoises,
+Potage,piquand
+piquand,à la pékinoise,
+Potage,thaï
+thaï,aux crevettes
+aux crevettes,,
+Potage,Saïgonnais,
+Salade,chinoise
+chinoise,auk
+auk,crevettes
+crevettes,et
+et,crabe,
+Salade,au crabe,
+Salade,aux crevettes,
+Salade,au poulet,
+Salade,Thai
+Thai,au boeuf,
+Nêms,au poulet,
+Rouleau,de printemps,
+Raviolis,chinois,
+Samoussa,au porc
+Samousse,au curry
+Toasts,aux crevettes
+aux crevettes,frits,
+Bo,Bun,
+Omelette,nature,
+Omelette,au crabe,
+Omelette,aux crevettes,
+Crevettes,en beignet,
+Plateau,de Lotus
+de Lotus,Chaud
+Chaud,et
+et,froid,
+Crevettes,sautées,
+Crevettes,sauce
+sauce,aigre-douce,
+Crevettes,au curry,
+Filet,de posson
+de posson,à la sauce
+à la sauce,aigre-douce,
+Filet,de Poisson
+de Poisson,curry,
+Filet,de Poisson
+de Poisson,à la sauce
+à la sauce,pékinoge
+Seiches,à la sauce
+à la sauce,pékinoise,
+Seiches,au sel
+au sel,et
+et,au poivre,
+Canard,aux cinq
+aux cinq,parfums,
+Canard,au curry,
+Canard,aux champignons
+aux champignons,noirs,
+Canard,ananas,
+Poulet,chef,
+Poulet,frit,
+Poulet,au gingembre,
+Poulet,au citron,
+Poulet,citronnelle,
+Poulet,sauce
+sauce,saté
+Poulet,sauté
+sauté,aux noix
+aux noix,de coco,
+Poulet,aux amandes,
+Poulet,sauce
+sauce,piquante,
+Poulet,au curry,
+Poulet,aux champignons,
+Boeuf,aux oignons,
+Boeuf,aux champignons,
+Boeuf,gingembre,
+Boeuf,sauce
+sauce,saté,
+Boeuf,à la sauce
+à la sauce,impériale,
+Boeuf,au curry,
+Porc,laqué,
+Porc,aux champignons
+aux champignons,noirs
+Porc,à la sauce
+à la sauce,aigre-douce,
+Porc,à la sauce
+à la sauce,saté,
+Porc,à la sauce
+à la sauce,impériale,
+Nouilles,sautées
+sautées,aux crevettes,
+Nouiles,sautées
+sautées,au poulet,
+Nouilles,sautées
+sautées,aux légumes,
+brocolis,sautés
+sautés,nature,
+Riz,sauté
+sauté,Thai
+Thai,aux crevettes,
+Riz,cantonais,
+Riz,au curry,
+Riz,gluant
+gluant,Ia
+Ia,vapeur,
+Riz,nature,
+Fondue,aux fruits
+aux fruits,de mer,
+Fondue,au saté,
+Crevettes,grillées
+grillées,au barbecue,
+Coquilles,St-Jacques
+St-Jacques,sautées,
+Coquilles,St-Jacques
+St-Jacques,au sel
+au sel,et
+et,poivre,
+Coquilles,St-Jacques
+St-Jacques,en beignet,
+Coquilles,St-Jacgues,
+Coquilles,St-Jacques
+St-Jacques,Ia
+Ia,sauce
+sauce,saté,
+CoquiIIes,St-Jacques
+St-Jacques,aux noix
+aux noix,de ceou,
+Grosses,crevettes
+crevettes,sel
+sel,et
+et,poivre,
+Grosses,crevettes
+crevettes,Ia
+Ia,citronnelle,
+crevettes,sautées
+sautées,ail,
+Cuisses,de grenouille
+de grenouille,au poivre,
+Cuisses,de grenouille
+de grenouille,impériales,
+Cuisses,de veroui'e
+de veroui'e,au Ong-embre
+Travers,de porc
+de porc,laqué,
+Travers,de porc
+de porc,au caramel,
+Travers,de porc
+de porc,grillés
+grillés,au sel
+au sel,et
+et,au poivre,
+Canard,pékinois,
+OIGNON,BHAJA,
+AUBERGINE,BHAJA
+CREVETTES,PAKORA,
+POULET,PAKORA,
+SAMOSSA,LEGUMES,
+MIXTE,BEIGNET,
+SAMOSSA,VIANOE,
+POULET,TANDOORI,
+POULET,Tikka,
+SEEKH,KABAB,
+AGNEAU,TIKKA,
+POISSON,TIKKA,
+GAMBAS,TANDOORI,
+GRILLE,MIXTE,
+POULET,CURRY,
+Poulet,madras,
+POULET,SAGWALA,
+POULET,VINDALLOO,
+POULET,KORMA,
+POULET,TIKKA
+TIKKA,MASSALA,
+BUTTER,CHICKEN,
+POULET,TANDOORI
+TANDOORI,MASSALA,
+POULET,CHAMPIONS,
+POULET,KASHMIRI,
+LE,TAJ
+TAJ,MAHAL
+MAHAL,SPECIAL
+SPECIAL,CURRY,
+AGNEAU,CURRY,
+AGNEAU,MADRAS,
+AGNEAU,KORMA,
+AGNEAU,VINDALOO,
+AGNEAU,AUBERGINES,
+AGNEAU,SAGWALAA,
+AGNEAU,TIKKA
+TIKKA,MASSALA,
+AGNEAU,KASMIR,
+AGNEAU,BALTI
+BALTI,GOSTH,
+KEENA,MATAR,
+KOFU,CURRY,
+KOFTA,MADRAS,
+KOFTA,KORMA,
+BOEUF,CURRY,
+BOEUF,MADRAS,
+BOEUF,VINDALOO,
+BOEUF,BALTI
+BALTI,GOSTH,
+BOEUF,KASHMIR,
+BOEUF,KORMA,
+CREVETTES,CURRY,
+CREVETTES,MADRAS,
+CREVETTES,KORMA,
+CREVETTES,MASSALA,
+CREVETTES,CHAMPIGNONS,
+CREVETTES,KASHMIR,
+GAMBAS,MASSALA,
+BIRYANI,LE
+LE,TAJ
+TAJ,MAHAL,
+BIRYANI,LEGUMES,
+BIRYANI,POULET,
+pouLET,TIKKA
+TIKKA,BIRYANI,
+BIRYANI,AGNEAU,
+BIRYANI,BOEUF,
+BIRYANI,CREVETTEs,
+RIZ,SAFRAN,
+Riz,basmati,
+Riz,pilao,
+RIZ,OEUF
+OEUF,Dur,
+Samos,au boeuf,
+Salade,Exotique,
+Gambas,exotique,
+Cube,de Thon,
+Filet,de boeuf
+de boeuf,en croûte
+en croûte,sauce
+sauce,foie
+foie,gras,
+Pepe,soupe
+soupe,de tripe
+de tripe,parfumé
+parfumé,au poivre
+au poivre,de penia,
+Sole,braise,
+Ndole,royale,
+Tiep,bou
+bou,dienn,
+Fois,gras,
+Beignet,d'
+d',acras,
+Gambas,grillée,
+Salade,des îles,
+Buche,de noël,
+Tarte,tatin
+tatin,banane,
+Salade,de fruits
+de fruits,tropicaux,
+Moelleux,aux chocolat
+aux chocolat,sur lit
+sur lit,de crème
+de crème,anglaise,
+Assiette,créole,
+Assiette,découverte,
+Tartare,de saumon
+de saumon,gravlax,
+Salade,de crudité,
+Achard,de légumes,
+Rougail,tomate,
+Cari,poulet,
+Massalé,d'agneaux,
+Rougail,saucisse,
+Colombo,porc
+porc,ou
+ou,poulet,
+Couscous,agneau,
+Couscous,poulet,
+porc,au caramel
+au caramel,ou
+ou,à l'ananas,
+poulet,banane
+banane,plantain,
+poisson,braisé
+braisé,à la Kmer,
+mafé,boeuf
+boeuf,,
+mafé,poulet,
+Salade,à la chair
+à la chair,de crabe,
+Salade,aux crevettes,
+Salade,au poulet,
+Salade,fruits
+fruits,de mer
+de mer,à la papaye
+à la papaye,(épicé
+(épicé,thaï),
+Salade,crevettes
+crevettes,à la papaye
+à la papaye,(épicé
+(épicé,thaï),
+Salade,à la papaye
+à la papaye,(épicé
+(épicé,thaï),
+Nêms,au porc,
+Néms,au poulet,
+Néms,aux crevettes,
+Néms,aux légumes,
+Hors,d'œuvre
+d'œuvre,assortiment,
+Samoussa,au bœuf,
+Croquettes,de crevette
+de crevette,frits,
+Raviolis,pékinois
+pékinois,frits,
+Beignets,de crevettes,
+Potage,aux asperges
+aux asperges,et
+et,à la chair
+à la chair,de crabe,
+Potage,pékinois
+pékinois,(épicé),
+Potage,au poulet
+au poulet,et
+et,aux vermicelles,
+Soupe,aux raviolis,
+Potage,fruits
+fruits,de mer
+de mer,à la citronneue,
+Potage,de crevettes
+de crevettes,à la citronnelle,
+Omelette,à la chair
+à la chair,de crabe,
+Omelette,aux crevettes,
+Coquilles,Saint
+Saint,Jacques
+Jacques,la sauce
+la sauce,Piquante,
+Coquilles,Saint
+Saint,Jacques
+Jacques,Sate,
+Coquilles,Saint
+Saint,Jacques
+Jacques,au Basilic,
+Nouilles,Sautées
+Sautées,Crevettes,
+Nouilles,Sautées
+Sautées,Boeuf,
+Nouilles,Sautées
+Sautées,Paulet,
+Nouilles,Sautées
+Sautées,Porc,
+Nouilles,Sautées
+Sautées,Nature,
+Nouilles,Croquantes
+Croquantes,aux Crevettes,
+Nouilles,Croquantes
+Croquantes,Boeuf,
+Nouilles,Croquantes
+Croquantes,Pavot,
+Canard,au Basilic,
+Canard,aux champignon
+aux champignon,noirs,
+Saumon,avocat,
+Thon,avocat,
+Surimi,avocat,
+Thon,cuit
+cuit,avocat,
+Saumon,cheese,
+Avocat,cheese,
+Poulet,avocat,
+Crevette,avocat,
+Saumon,fumé
+fumé,avocat,
+Foie,gras,
+Saumon,avocat
+avocat,épicé,
+Thon,avocat
+avocat,épicé,
+Tempura,crevette
+crevette,concombre,
+Œufs,de saumon,
+Saumon,cheese,
+Saumon,fumé
+fumé,cheese-
+Thon,cuit,
+Saumon,avocat,
+Crevettes,avocat,
+Cheese,avocat,
+Radis,jaune,
+Foie,gras,
+Saumon,épice,
+Thon,épice,
+Saumon,avocat
+Thon,avocat,
+California,poulet,
+Thon,cuit
+cuit,avocat,
+Avocat,surimi,
+Crevettes,piquant,
+Crevettes,beignet,
+Saumon,fumé
+fumé,cheese
+cheese,avocat,
+Saumon,avocat,
+Foie,gras,
+Saumon,avocat
+avocat,épicé,
+Thon,avocat
+avocat,épicé,
+Concombre,cheese,
+Surimi,avocat,
+Cheese,saumon,
+Thon,cuit
+cuit,avocat,
+Foie,gras,
+Thon,avocat,
+Thon,cuit
+cuit,avocat,
+Saumon,cheese,
+Tempura,crevette
+crevette,concombre,
+Boulettes,de poulet,
+Aile,de poulet,
+Bœuf,au fromage,
+Saumon,chinois,
+Tempura,bœuf
+bœuf,au fromage,
+ROULEAU,DE
+DE,PRINTEMPS,
+SALADE,AUX
+AUX,CREVETTES,
+CREVETTES,,CRABE
+CRABE,ou
+ou,POULET,
+SALADE,AU
+AU,BŒUF
+BŒUF,EPICEE,
+SALADE,AU
+AU,CALAMAR
+CALAMAR,EPICEE,
+SALADE,AUX
+AUX,CREVETTES
+CREVETTES,EPICEE,
+SOUPE,VERMICELLE
+VERMICELLE,AU
+AU,POULET,
+POTAGE,PEKINOIS,
+POTAGE,CRABE
+CRABE,AUX
+AUX,ASPERGES,
+SOUPE,SPECIALE
+SPECIALE,MAISON,
+SOUPE,THAILANDAISE
+THAILANDAISE,AUX
+AUX,CREVEITES,
+SOUPE,AUX
+AUX,RAVIOLIS
+RAVIOLIS,CHINOIS,
+SOUPE,PHO
+PHO,AUX
+AUX,BOULEITES
+BOULEITES,DE
+DE,BOEUF,
+SOUPE,NOUILLES
+NOUILLES,AU
+AU,CANARD,
+NEMS,au poulet
+SAMOUSSAS,AU
+AU,BŒUF,
+SAMOUSSA,AUX
+AUX,LÉGUMES,
+BEIGNETS,DE
+DE,CREVETTE,
+PAPILLOTES,AUX
+AUX,CREVEITES,
+RAVIOLIS,FRITS,
+HORS-D'OEUVRE,VARIE,
+PINCES,DE
+DE,CRABE,
+BROCHETTES,DE
+DE,CREVETTES
+CREVETTES,GRILLEES,
