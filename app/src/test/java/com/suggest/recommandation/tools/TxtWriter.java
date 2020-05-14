@@ -52,10 +52,12 @@ public class TxtWriter {
 
                         if (p.matcher(currentWord).find()) {
                             currentWord = currentWord.replaceAll(p.toString(), "");
+                            currentWord = currentWord.isEmpty() ? cleanParts.get(i) : currentWord;
                         }
 
                         if (p.matcher(nextWord).find()) {
                             nextWord = nextWord.replaceAll(p.toString(), "");
+                            nextWord = nextWord.isEmpty() ? cleanParts.get(i + 1) : nextWord;
                         }
                         writer.write(currentWord.trim() + ',' + nextWord.trim() + '\n');
                     }
@@ -94,10 +96,14 @@ public class TxtWriter {
 
                         if (p.matcher(currentWord).find()) {
                             currentWord = currentWord.replaceAll(p.toString(), "");
+                            currentWord = currentWord.isEmpty()
+                                    ? cleanParts.get(i).concat(' ' + cleanParts.get(i + 1))
+                                    : currentWord;
                         }
 
                         if (p.matcher(nextWord).find()) {
                             nextWord = nextWord.replaceAll(p.toString(), "");
+                            nextWord = nextWord.isEmpty() ? cleanParts.get(i + 2) : nextWord;
                         }
 
                         writer.write(currentWord.trim() + ',' + nextWord.trim() + '\n');
@@ -109,7 +115,7 @@ public class TxtWriter {
     }
 
     public static void main(String[] args) throws FileNotFoundException {
-        //generate2GramFromTXT();
-        generate3GramFromTXT();
+        generate2GramFromTXT();
+        //generate3GramFromTXT();
     }
 }

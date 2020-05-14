@@ -4,9 +4,9 @@ du Monde consacré mardi 31 mars à l’alimentation confinée. Vous avez été 
 Certains pour expliquer que le confinement vous avait coupé l’appétit. D’autres, au contraire,
 pour nous raconter que vous vous étiez découvert une passion pour la cuisine – et la trouille
 d’y gagner en rondeurs. On s’est étonnés de vous voir si nombreux à vous être lancés dans la confection
-de votre propre pain. Et on a salivé devant les photos de vos plats – ou pas.
+de votre propre pain. Et on a salivé devant les photos de vos plats ou pas.
 
-Carte postale de « nos vies confinées », mardi 31 mars.
+Carte postale de nos vies confinées.
 
 Vos témoignages, Je mange parce qu’il faut manger
 
@@ -51,12 +51,11 @@ Bonne nouvelle !
 On peut se dandiner « utile ». Sur Instagram, le DJ et chanteur Yuksek, figure de l’électro française, propose de réaliser un clip à partir des vidéos envoyées par des personnes confinées dansant sur le titre The Only Reason. Les droits du clip seront intégralement reversés au Secours populaire, qui tente de maintenir ses activités à l’égard des plus démunis malgré la crise. L’adresse pour envoyer sa vidéo : clipensemble2020@gmail.com
 
 L’initiative solidaire du jour
-L’affiche « Restez à la maison » monétisée au profit des soignants. Elle n’a pas pu vous échapper : depuis le début du confinement, cette affiche, réalisée par l’illustrateur Mathieu Persan, a fait le tour des réseaux sociaux. L’artiste a décidé d’aller plus loin dans sa démarche, et de mettre en vente des tirages de l’affiche, afin de « reverser l’intégralité des bénéfices aux fondations et directions du mécénat de divers CHU de notre territoire, en local, c’est-à-dire au plus près des besoins des personnels hospitaliers ». Si vous voulez contribuer en achetant cette affiche, c’est par ici.
+L’affiche Restez à la maison monétisée au profit des soignants.
+Elle n’a pas pu vous échapper : depuis le début du confinement,
+cette affiche, réalisée par l’illustrateur Mathieu Persan,
+a fait le tour des réseaux sociaux. L’artiste a décidé d’aller plus loin dans sa démarche, et de mettre en vente des tirages de l’affiche, afin de « reverser l’intégralité des bénéfices aux fondations et directions du mécénat de divers CHU de notre territoire, en local, c’est-à-dire au plus près des besoins des personnels hospitaliers ». Si vous voulez contribuer en achetant cette affiche, c’est par ici.
 
-
-Mathieu Persan
-@mathieupersan
-AIDEZ LES SOIGNANTS / RECEVEZ UNE AFFICHE SIGNEE
 Devant la situation terrible que vivent les soignants nous lançons, avec @sergeantpaper, une campagne @Kissbankers afin de récolter des fonds ! https://bit.ly/3bFl1JH
 Merci par avance pour votre soutien !
 
@@ -65,7 +64,7 @@ Informations sur les Publicités Twitter et confidentialité
 Les articles qu’il ne fallait pas manquer
 Reportage : A l’Ehpad des Quatre-Saisons, la vie et la mort au jour le jour
 Chronique : Le confinement, ça ne mange pas de pain, vraiment ?
-Témoignage : Alain Domini, berger d’estive : « En montagne, on se focalise sur le vivant »
+Témoignage : Alain Domini, berger d’estive : En montagne, on se focalise sur le vivant
 Et nos recommandations :
 
 Divertissement : Cinq séries comiques pour alléger le confinement
@@ -102,8 +101,8 @@ Jusqu’à présent, la FAO évaluait qu’un tiers de la nourriture produite da
 n’était pas consommée, une estimation qui remonte à 2011.
 
 L’agence onusienne a cette fois affiné sa méthodologie pour distinguer deux notions :
-les pertes alimentaires – tout ce qui est perdu entre la récolte et la vente au détail,
-pendant les étapes de stockage et de transport notamment – et le gaspillage – qui intervient lors
+les pertes alimentaires tout ce qui est perdu entre la récolte et la vente au détail,
+pendant les étapes de stockage et de transport notamment et le gaspillage qui intervient lors
 de la vente aux particuliers et de la consommation.
 
 Selon les calculs de la FAO, 14 % de la nourriture mondiale est perdue
@@ -119,20 +118,20 @@ car le pourcentage de pertes se rapporte à la production, qui se calcule après
 
 ARTICLE 3
 L’état de préparation du public et du secteur marchand en cas
-de Brexit sans accord reste « faible » en Grande-Bretagne, selon des documents officiels
+de Brexit sans accord reste faible en Grande-Bretagne, selon des documents officiels
 rendus publics mercredi 11 septembre. La menace d’encombrement des ports est telle qu’elle
 pourrait provoquer des pénuries de médicaments et de nourriture.
 
 Les députés britanniques avaient voté la semaine dernière pour forcer
 leur gouvernement à publier les détails de l’« Opération Yellowhammer »,
 le nom de code des documents gouvernementaux confidentiels datés du 2 août qui précisent
-les conséquences d’un « no-deal » (absence d’accord) pour le Royaume-Uni, au lendemain du Brexit,
+les conséquences d’un no-deal (absence d’accord) pour le Royaume-Uni, au lendemain du Brexit,
 prévu le 31 octobre.
 
-Une solution « non viable »
+Une solution non viable
 Dans la perspective d’un tel scénario, les autorités britanniques prévoient des perturbations
 à court terme dans 12 domaines-clés, dont l’approvisionnement en eau et nourriture,
-la santé, les transports et les frontières, ainsi que la possibilité de « désordres publics ».
+la santé, les transports et les frontières, ainsi que la possibilité de désordres publics.
 
 Le projet britannique de suppression des contrôles à la frontière irlandaise « s’avérerait probablement non viable en raison d’importants risques sur les plans économique, juridique et de biosécurité », selon ce document, qui évoque la possibilité de l’émergence d’un marché noir dans les communautés frontalières.
 Autre incidence inquiétante d’un tel scénario : le manque de produits chimiques pour le retraitement des eaux, qui pourrait affecter des « centaines de milliers » de personnes, précise le rapport. Celui-ci évoque, en outre, le risque de ruptures
@@ -147,19 +146,19 @@ l’absence d’une vision claire sur la forme de la sortie de l’Union europé
 selon les documents. Une partie de ces documents avaient fuité dans l’hebdomadaire Sunday Times
 le 18 août dernier, suscitant l’inquiétude parmi la population britannique.
 
-Lire aussi  Brexit : « Si Boris Johnson ne demande pas un report, les conséquences peuvent être très graves »
-« Possible augmentation des désordres publics »
+Lire aussi  Brexit : Si Boris Johnson ne demande pas un report, les conséquences peuvent être très graves
+Possible augmentation des désordres publics
 Gibraltar pourrait également être affecté en raison de la mise
 en place de contrôles douaniers à sa frontière avec l’Espagne. Des accrochages pourraient également éclater dans les zones de pêche entre pêcheurs britanniques et étrangers, indique le rapport, qui met aussi en garde contre « une possible augmentation des désordres publics et des tensions communautaires ».
 
-Le gouvernement a souligné qu’il était en train de « mettre à jour » le document.
-« Il décrit ce qui pourrait se passer dans le pire des cas », a insisté le ministre chargé du Brexit,
+Le gouvernement a souligné qu’il était en train de mettre à jour le document.
+Il décrit ce qui pourrait se passer dans le pire des cas, a insisté le ministre chargé du Brexit,
 Michael Gove.
 
 Mais ces mises en garde accroissent la pression sur le premier ministre,
 Boris Johnson, qui a promis de mener à bien le Brexit d’ici le 31 octobre, avec ou sans accord
 avec l’Union européenne. Il a essuyé mercredi un nouveau revers, lorsque la justice écossaise
-a déclaré « illégale » la suspension controversée du Parlement jusqu’au 14 octobre,
+a déclaré illégale la suspension controversée du Parlement jusqu’au 14 octobre,
 soit deux semaines seulement avant la date prévue pour le Brexit.
 
 ARTICLE 4
@@ -173,17 +172,17 @@ Depuis longtemps, la médecine a déterminé que certains aliments, les acides g
 
 Martin Luther King, Steve Jobs, Bouddha….
 Si l’on en croit les utilisateurs de #foodforthought, leur esprit se nourrit aussi de citations,
-exclusivement sur des thèmes « bien-être » et « développement personnel ». Exemple :
-« N’ayez pas peur de lâcher tout ce qui vous retient d’atteindre votre but. »
+exclusivement sur des thèmes bien-être et développement personnel. Exemple :
+N’ayez pas peur de lâcher tout ce qui vous retient d’atteindre votre but.
 L’enfonçage de porte ouverte est ici un art qui n’a d’égal que
 les petites phrases que l’on trouve sur les étiquettes de Yogi Tea, aussi connues
-sous le nom de « guide spirituel pour yogis débutantes ».
+sous le nom de guide spirituel pour yogis débutantes.
 
 ARTICLE 5
 Manger équilibré est d’autant plus indispensable à cette période de l’année qu’une mauvaise alimentation peut engendrer une fatigue, elle-même renforcée en cette période de l’année par le peu de luminosité et la baisse des températures.
 
-Mais « il n’y a pas de lien entre alimentation et risque
-infectieux sauf, évidemment, pour les personnes en dénutrition », rappelle Serge Hercberg,
+Mais il n’y a pas de lien entre alimentation et risque
+infectieux sauf, évidemment, pour les personnes en dénutrition, rappelle Serge Hercberg,
 vice-président du comité stratégique du programme national nutrition santé (PNNS).
 
 En revanche, manger trop riche fatigue l’organisme en suscitant une digestion difficile. La suralimentation, qui peut se traduire par un excès d’apport en lipides ou en sucres ajoutés, baisse la résistance bactérienne. « Toute alimentation industrielle transformée (sodas, nuggets…) réduit la concentration en micronutriments et favorise la baisse des défenses immunitaires », déclare le nutritionniste Laurent Chevallier.
@@ -192,17 +191,17 @@ Lire : Avant l'arrivée de la grippe A, comment renforcer ses défenses immunita
 
 A noter que les soupes, en plus de réchauffer, apportent le plein de sucres rapides (carottes et navets) et lents (poireaux et oignons), le tout couplé avec une hydratation optimale en hiver. Une nécessité quand le froid et le chauffage des espaces intérieurs assèchent l’air et le corps.
 
-Oranges are pictured at the Rungis international market in Rungis, outside Paris, on December 23, 2014. AFP PHOTO / LIONEL BONAVENTURE / AFP PHOTO / LIONEL BONAVENTURE
-Oranges are pictured at the Rungis international market in Rungis, outside Paris, on December 23, 2014. AFP PHOTO / LIONEL BONAVENTURE / AFP PHOTO / LIONEL BONAVENTURE LIONEL BONAVENTURE / AFP
 Des vitamines pour lutter contre les infections ?
 NON PLUS
-Nul besoin de se gaver de compléments alimentaires. « Il n’y a aucune étude scientifique qui justifie réellement la prise de compléments alimentaires – en dehors d’indications médicales spécifiques (fer ou folate pour les femmes, vitamine D pour les enfants, les adolescents et les personnes âgées par exemple) », affirme Serge Hercberg, aussi spécialiste en immunologie nutritionnelle.
+Nul besoin de se gaver de compléments alimentaires. Il n’y a aucune étude scientifique qui justifie réellement la prise de compléments alimentaires – en dehors d’indications médicales spécifiques (fer ou folate pour les femmes, vitamine D pour les enfants, les adolescents et les personnes âgées par exemple) », affirme Serge Hercberg, aussi spécialiste en immunologie nutritionnelle.
 
-Au contraire, les surplus de vitamines peuvent se révéler néfastes, comme l’explique le professeur Chris van Tulleken sur le site de la BBC.
+Au contraire, les surplus de vitamines peuvent se révéler néfastes,
+comme l’explique le professeur Chris van Tulleken sur le site de la BBC.
 
-Quant à la fameuse vitamine C, qui permettrait de lutter contre le rhume, «
+Quant à la fameuse vitamine C, qui permettrait de lutter contre le rhume,
 les essais de fortes doses de vitamine C, administrées à visée curative après
-l’apparition des symptômes, ne montraient aucun effet constant sur la durée ou la gravité des symptômes du rhume banal », ont montré les chercheurs Harri Hemilä et Elizabeth Chalker.
+l’apparition des symptômes, ne montraient aucun effet constant sur la durée ou la gravité
+des symptômes du rhume banal , ont montré les chercheurs Harri Hemilä et Elizabeth Chalker.
 
 Un petit verre, ça réchauffe, non ?
 BOF
@@ -226,13 +225,13 @@ Lorsque les horaires de travail ou l'éloignement du domicile ne permettent pas 
 de rentrer manger chez lui, il peut déduire les frais de repas pris sur le lieu de travail
 dans les conditions suivantes :
 
-- si le salarié peut justifier précisément de ses frais de repas, le montant déductible est en principe égal à la différence entre les dépenses réelles et la valeur des repas pris à domicile, estimée forfaitairement à 4,65 euros par repas pour 2015).
+si le salarié peut justifier précisément de ses frais de repas, le montant déductible est en principe égal à la différence entre les dépenses réelles et la valeur des repas pris à domicile, estimée forfaitairement à 4,65 euros par repas pour 2015).
 Attention toutefois : si le salarié choisit d'aller au restaurant
 plutôt qu'à la cantine d'entreprise, l'excédent du prix payé au restaurant par rapport à la cantine
 n'est pas déductible. Le montant maximum déductible est donc égal à la différence entre
 le coût du repas à la cantine et la valeur du repas pris à domicile.
 
-- si le salarié ne peut pas justifier précisément de ses frais de repas, la dépense supplémentaire
+si le salarié ne peut pas justifier précisément de ses frais de repas, la dépense supplémentaire
 déductible est évaluée forfaitairement à 4,65 euros par repas pour 2015, cette somme étant
 le cas échéant diminuée de la participation de l'employeur à l'acquisition de titres-restaurant.
 
@@ -250,18 +249,18 @@ a provoqué un tsunami médiatique de commentaires négatifs sur la consommation
 De quoi s’agit-il  ? Du lien entre la fréquence du cancer colorectal et la consommation
 de deux types de viande, les viandes transformées, d’une part, et les viandes rouges, d’autre part.
 
-Le journal Le Monde en a fait sa «  une  » de l’édition datée du mardi 27 octobre,
-avec un titre sans nuance  : «  Les viandes rouges classées cancérogènes  ». L’analogie avec
+Le journal Le Monde en a fait sa, une de l’édition datée du mardi 27 octobre,
+avec un titre sans nuance  : Les viandes rouges classées cancérogènes  ». L’analogie avec
 les méfaits du tabac est inévitable. Un institut de recherche cité par le journal a même estimé que,
-dans le monde, 34  000 décès annuels étaient imputables à la viande transformée et 50  000 aux viandes rouges, contre un million pour le tabac, 600  000 pour l’alcool, et 200  000 pour la pollution atmosphérique. Rappelons que l’humanité dénombre environ 60 millions de morts par an, dont 1 % à cause du cancer colorectal. Selon ces données, 14 % de ce 1 % seraient dus à la viande.
+dans le monde, 34  000 décès annuels étaient imputables à la viande transformée et 50  000 aux viandes rouges, contre un million pour le tabac, 600000 pour l’alcool, et 200000 pour la pollution atmosphérique. Rappelons que l’humanité dénombre environ 60 millions de morts par an, dont 1 % à cause du cancer colorectal. Selon ces données, 14 % de ce 1 % seraient dus à la viande.
 
-Lire aussi  La viande rouge est « probablement » cancérogène
+Lire aussi  La viande rouge est probablement cancérogène
 Cette information n’est pas nouvelle. Elle a débuté il y a une quinzaine
 d’années et a fait l’objet de controverses. Certaines méta-analyses (synthèses de publications scientifiques)
 l’ont confirmée, d’autres l’ont infirmée. La solennité scientifique de
 l’OMS lui donne aujourd’hui du poids, mais la controverse va continuer au regard des contestations
 déjà exprimées et dont le journal Le Monde a fait état, témoin cette qualification américaine
-de « science pourrie  ».
+de science pourrie.
 
 L’OMS serait partie de 800 études issues de 10 pays, mais c’est à partir de
 10 études seulement qu’elle aurait établi son principal résultat  :
@@ -270,11 +269,11 @@ des viandes transformées et des viandes grillées.
 
 ARTICLE 8
 Aaron Levie, l’une des figures de la Silicon Valley, s’en étonnait début mai.
-« En 2020, on continue à parler de ce qui devait changer le monde en 2000 :
+En 2020, on continue à parler de ce qui devait changer le monde en 2000 :
 les visioconférences, la fin du papier, le commerce en ligne. La différence
 est qu’il y a maintenant “un impératif à le faire ”, insiste le PDG de Box,
 une société de logiciels dématérialisés qui a vu la demande de services sur le cloud exploser.
-« Et la technologie est finalement prête », conclut-il.
+Et la technologie est finalement prête, conclut-il.
 
 La Silicon Valley était en quelque sorte préparée au virus. Dès les premiers cas de contamination,
 elle a renvoyé ses salariés chez eux. Deux mois et demi plus tard, elle fait figure de dernier pilier –
@@ -287,7 +286,7 @@ les entreprises technologiques créaient « plus de problèmes qu’elles n’en
 (15 % seulement se prononçaient pour l’inverse). Mais, depuis le confinement, on les plébiscite.
 L’écran, c’est l’« apéro visio », les « story-time » avec les grands-parents interdits de visite,
 l’amplification de la voix des personnels soignants plutôt que de celle des provocateurs.
-« L’Internet est-il redevenu gentil ? », s’interrogeait le New York Times le 1er avril.
+L’Internet est-il redevenu gentil ? s’interrogeait le New York Times le 1er avril.
 
 Article réservé à nos abonnés Lire aussi  Face au coronavirus, une Amérique aux pieds d’argile
 De Netflix à Amazon, les géants des technologies ont accentué leur domination sur l’économie.
@@ -306,16 +305,16 @@ de la loi du 10 février 2020 visant à lutter contre le gaspillage et à dével
 et de la loi de 2015 sur la transition énergétique pour la croissance verte.
 
 Selon ses arguments, la chute du PIB pourrait dépasser 3 % en 2020,
-ce qui condamnerait nombre d’entreprises à la faillite et détruirait au moins 500 000 emplois.
+ce qui condamnerait nombre d’entreprises à la faillite et détruirait au moins beacoup d'emplois.
 Pour M. Roux de Bézieux, les conditions ne sont pas remplies pour appliquer ces lois,
 en particulier dans certaines industries, comme l’automobile.
 
 Article réservé à nos abonnés Lire aussi  Transition énergétique :
-« L’élite managériale française se complaît dans la pensée magique de l’innovation »
+L’élite managériale française se complaît dans la pensée magique de l’innovation »
 Quand les entreprises doivent lutter pour relancer leurs activités
 et parfois leurs marchés, il ne serait pas sage de les accabler de contraintes environnementales
 supplémentaires. Quand elles retrouveront leurs marges, elles pourront répondre aux normes
-d’une « croissance verte » : tel est l’avis du Medef, qui, comme tel, est respectable et discutable.
+d’une croissance verte tel est l’avis du Medef, qui, comme tel, est respectable et discutable.
 
 Source de prospérité économique future ?
 La transition énergétique a souvent été présentée, ces dernières années,
@@ -337,8 +336,8 @@ Marrakech par Rabat, a-t-on appris auprès des organisateurs. « Les autorités 
 ont décidé de choisir Rabat en faisant valoir que ses infrastructures étaient plus adaptées »,
 a indiqué à l’AFP un responsable qui a requis l’anonymat.
 
-« J’ai le triste regret de vous annoncer qu’il a été décidé (pour des raisons incompréhensibles)
-et après plusieurs mois de préparation intense, que la ville ocre se désisterait au profit de Rabat »,
+J’ai le triste regret de vous annoncer qu’il a été décidé (pour des raisons incompréhensibles)
+et après plusieurs mois de préparation intense, que la ville ocre se désisterait au profit de Rabat,
 a pour sa part commenté le président honoraire du comité Marrakech 2020,
 le peintre marocain Mahi Binebine, sur sa page Facebook. L’artiste avait participé la semaine dernière
 à Paris à la présentation officielle de l’événement par l’organisation panafricaine Cités
@@ -354,10 +353,10 @@ il y a environ deux ans, selon cette source.
 Lire aussi  L’Afrique aura désormais ses capitales de la culture
 La municipalité de la ville ocre a ensuite annoncé au comité son désistement au
 profit de Rabat, la capitale administrative, désignée par le roi Mohammed VI comme
-« capitale culturelle du pays » il y a plusieurs années, selon la même source.
-La presse marocaine a fait état, la semaine dernière, d’une « colère royale »
+capitale culturelle du pays il y a plusieurs années, selon la même source.
+La presse marocaine a fait état, la semaine dernière, d’une colère royale
 après une visite du souverain sur des grands chantiers en cours à Marrakech, en prédisant que
-les « retards et défaillances » des projets provoqueraient un « séisme administratif ».
+les retards et défaillances » des projets provoqueraient un séisme administratif.
 
 Marrakech, la capitale touristique du royaume, a été désignée par
 le CGLU Afrique comme ville pilote du projet Capitales africaines de la culture.
@@ -365,94 +364,94 @@ L’événement triennal, qui devrait revenir à Kigali en 2023, vise à inscrir
 des politiques de développement des villes sur le continent. Lancé en 2014, le projet Rabat,
 capitale culturelle inclut différents grands chantiers de mise en valeur du patrimoine et
 l’organisation d’événements culturels de prestige comme la récente biennale d’art contemporain
-qui a réuni plus de 140 000 visiteurs en trois mois.
+qui a réuni plus de tant d'utilisateurs en trois mois.
 
 ARTICLE 11
 Promis par Emmanuel Macron, considéré comme « le chantier culturel prioritaire du quinquennat »,
 présenté comme « une clé vers la liberté pour les jeunes » par Franck Riester, où en est
-le Pass culture, ce projet d’offrir 500 euros d’offres culturelles aux jeunes âgés de 18 ans ?
+le Pass culture, ce projet d’offrir 500 euros d’offres culturelles aux jeunes âgés de 18 ans
 « Nous constatons une montée en puissance tant dans l’adhésion des jeunes que dans
 celle des acteurs culturels », a tenté de rassurer, mardi 12 novembre,
 le ministre de la culture lors de la présentation du projet de loi de finances 2020 à l’Assemblée nationale.
 Derrière ce satisfecit, la réalité des chiffres montre que la généralisation du dispositif,
-d’ici à 2022, aux 800 000 jeunes d’une classe d’âge accédant chaque année à la majorité, est loin
+d’ici à 2022, aux jeunes d’une classe d’âge accédant chaque année à la majorité, est loin
 d’être acquise et que les conditions financières de sa pérennisation ne sont pas encore réunies.
 
 Article réservé à nos abonnés Lire aussi  « Les 18-25 ans sont les plus difficiles à capter » :
 les débuts en demi-teinte du Pass culture dans le Finistère
 Dans les faits, l’expérimentation de cette application de géolocalisation des offres culturelles a été
 élargie, depuis juin, à quatorze départements (contre cinq depuis février).
-Sur les 150 000 premiers jeunes potentiellement concernés, seuls 31 031 ont,
+Sur les premiers jeunes potentiellement concernés, seuls 31 031 ont,
 pour l’heure, activé un compte et 2 662 acteurs culturels y ont inscrit leurs offres.
-Quant aux 86 765 réservations effectuées par les utilisateurs, elles concernent pour
+Quant aux réservations effectuées par les utilisateurs, elles concernent pour
 plus de 45 % l’achat de livres, pour 13 % des concerts et festivals et pour 11 %
 de la musique en ligne (essentiellement des abonnements à la plate-forme Deezer).
 
 En moyenne, les jeunes ont consommé, en quatre mois, un peu moins de 100 euros.
-« Le processus est en train de décoller, nous visons un objectif de 50 000 comptes créés d’ici à
+Le processus est en train de décoller, nous visons un objectif de 50 000 comptes créés d’ici à
 la fin de l’année », indique Damien Cuier, haut fonctionnaire, ancien directeur
 financier de France Télévisions et ex-directeur général de la chaîne Numéro 23, nommé en
 juillet président de la société par actions simplifiées (SAS) Pass culture.
 
 ARTICLE 12
-Les mardis se ressemblent pour TF1, qui programme chaque semaine un volet de la saga « Harry Potter ».
-Mardi soir, le cinquième opus, « L'Ordre du Phénix », datant de 2007, a rassemblé 6,87 millions
+Les mardis se ressemblent pour TF1, qui programme chaque semaine un volet de la saga Harry Potter.
+Mardi soir, le cinquième opus, L'Ordre du Phénix , datant de 2007, a rassemblé 6,87 millions
 de téléspectateurs pour 27,4 % de part d'audience (PDA), soit à peine moins que quatrième volet
-la semaine dernière. Et comme le mardi précédent, seule la série « Tandem » de France 3
+la semaine dernière. Et comme le mardi précédent, seule la série Tandem de France 3
 a pu rivaliser avec le petit magicien de Poudlard, avec 5 millions de fans (17,7 % de PDA).
 
-Derrière, M 6 sauve les meubles avec la rediffusion du spectacle « Grandeur Nature » concocté
+Derrière, M 6 sauve les meubles avec la rediffusion du spectacle grandeur nature concocté
 par les humoristes Les Bodin's, qui a détendu 3,4 millions de spectateurs (15,1 % de PDA) présents
 devant leur petit écran.
 
-Petit score en revanche pour France 2, dont la spéciale des « Pouvoirs extraordinaires du corps humain »
+Petit score en revanche pour France 2, dont la spéciale des Pouvoirs extraordinaires du corps humain »
 consacrée par Michel Cymes aux questions des Français sur le déconfinement n'a attiré que 2,3 millions
-de curieux (9,7 % de PDA) — le 3 mars dernier, le précédent numéro du magazine en avait rassemblé
+de curieux et le 3 mars dernier, le précédent numéro du magazine en avait rassemblé
 2,9 millions.
 
 Derrière, aucune chaîne ne dépasse le million de téléspectateurs, seule NRJ 12
-a réuni 709 000 curieux (2,7 % de PDA) avec « The Town », polar réalisé et interprété par Ben Affleck.
+a réuni 709 000 curieux (2,7 % de PDA) avec The Town, polar réalisé et interprété par Ben Affleck.
 
 ARTICLE 13
 Amis Terriens, soyez prêts à combattre le Corona Minus! En moins de 2 minutes,
 le chanteur pour enfants Guillaume Aldebert fredonne joyeusement les gestes barrière.
 Ce nouveau titre, mis en ligne le 10 mai, a été commandé par France Télévisions pour accompagner
-le retour à l'école. Pour composer un air « plus glamour et plus funky » que ce Covid-19
+le retour à l'école. Pour composer un air plus glamour et plus funky que ce Covid-19
 anxiogène, l'artiste a choisi de le transformer en monstre débarqué de Vénus,
-« tout petit mais très dangereux ».
+tout petit mais très dangereux.
 
-Les Terriens sont invités à remplir une mission. « Lavez-vous les mains, évitez les balades
-dans les endroits bondés. » Sur une guitare joyeuse et dansante, Guillaume Aldebert égrène
-nos nouveaux rituels obligés. Tousser dans son coude, garder les distances, rester zen mais arrêter les bisous. « J'ai voulu dédramatiser en faisant passer les messages précis, raconte l'artiste. Pas facile d'écrire une chanson dans laquelle les paroles sont imposées ! »
+Les Terriens sont invités à remplir une mission. Lavez-vous les mains, évitez les balades
+dans les endroits bondés. Sur une guitare joyeuse et dansante, Guillaume Aldebert égrène
+nos nouveaux rituels obligés. Tousser dans son coude, garder les distances, rester zen mais arrêter les bisous. J'ai voulu dédramatiser en faisant passer les messages précis, raconte l'artiste. Pas facile d'écrire une chanson dans laquelle les paroles sont imposées
 
 
 Le refrain fait un clin d'oeil à l'origine du virus.
-« Nom d'un petit pangolin, je ne sais pas ce qui me retient d'envoyer sur Vénus ce satané virus,
-nom d'une chauve-souris… » Les paroles ont germé un après-midi en cuisinant une tarte au chocolat
-avec ses enfants. « On fredonnait Ah, nom d'un petit pangolin, la chanson est née comme ça… »
+Nom d'un petit pangolin, je ne sais pas ce qui me retient d'envoyer sur Vénus ce satané virus,
+nom d'une chauve-souris… Les paroles ont germé un après-midi en cuisinant une tarte au chocolat
+avec ses enfants. On fredonnait Ah, nom d'un petit pangolin, la chanson est née comme ça…
 
 Les fans d'Aldebert (et les autres aussi), sont invités à envoyer sur son site
-une vidéo rigolote pour alimenter le clip Corona Minus. « Amusez-vous, dansez, déguisez-vous!
-On mêlera ces moments aux gestes barrières. » Vous avez jusqu'au jeudi 14 mai pour envoyer vos créations.
+une vidéo rigolote pour alimenter le clip Corona Minus. Amusez-vous, dansez, déguisez-vous!
+On mêlera ces moments aux gestes barrières. Vous avez jusqu'au jeudi 14 mai pour envoyer vos créations.
 Le clip collaboratif sera diffusé à partir du 22 mai sur les chaînes du groupe France Télévisions.
-Les droits de « Corona Minus » seront reversés à l'association Emmaüs Connect, qui oeuvre à l'inclusion
+Les droits de Corona Minus seront reversés à l'association Emmaüs Connect, qui oeuvre à l'inclusion
 numérique des plus fragiles.
 
 Confiné à la campagne en famille
 L'artiste est resté confiné avec son épouse et leurs trois enfants de 2, 4 et 7 ans, dans le Doubs,
-près de Besançon. Lison, Gabin et Charlie vivent sereinement la présence du Covid-19. « Mon épouse
+près de Besançon. Lison, Gabin et Charlie vivent sereinement la présence du Covid-19. Mon épouse
 est médecin généraliste et a expliqué le virus aux enfants, avec des dessins sur sa chaîne Youtube,
-Le coeur net. » Dans sa maison à la campagne, la famille a alterné les activités : courses d'obstacles,
+Le coeur net. Dans sa maison à la campagne, la famille a alterné les activités comme les courses d'obstacles,
 jeux de société, début de construction d'un Lego Star Wars de 7000 pièces… Et bien sûr de la musique!
 
 Le chanteur a invité des amis à distance à (re) partager ses textes. Les cinq épisodes de son
-« Tour à la maison » sur Facebook (NDLR : en opposition au tour du monde qu'il avait entamé pour préparer
+Tour à la maison sur Facebook (NDLR en opposition au tour du monde qu'il avait entamé pour préparer
 son prochain album) sont à écouter sans modération. Le 6 e et dernier sortira la semaine prochaine, avec Clarika, Mathias Malzieu, Louis Chedid.
 
 Ses fils Charlie et Gabin présentent la vidéo et chantent aussi. Aldebert a contacté ceux
-avec qui il avait déjà travaillé. Olivia Ruiz, Tryo, Benabar, Tété… Gauvain Sers partage sa « Peur du noir »,
+avec qui il avait déjà travaillé. Olivia Ruiz, Tryo, Benabar, Tété… Gauvain Sers partage sa Peur du noir,
 Sylvain Duthu -la voix de Boulevard des Airs- rend hommage à Maman Noël, Claire Keim revient fredonner
-« Les Amoureux », devant sa table à repasser, une rose dans les cheveux et Archimède n'a pas manqué
+Les Amoureux , devant sa table à repasser, une rose dans les cheveux et Archimède n'a pas manqué
 le 1 er épisode pour un délicieux Taxidermiste.
 
 ARTICLE 14
@@ -463,59 +462,57 @@ connus ou anonymes pour qu'ils écrivent un morceau, pendant le confinement.
 
 Par l'intermédiaire des réseaux sociaux, chacun peut ainsi lui envoyer sa partition,
 à condition qu'elle soit courte et pour violon seul. Et la musicienne l'enregistre dans la foulée !
-« Je me suis dit que cette période tellement particulière devait être l'occasion d'être davantage
+Je me suis dit que cette période tellement particulière devait être l'occasion d'être davantage
 dans le présent. Nous jouons toujours la musique de grands compositeurs classiques qui sont morts.
 Là, l'occasion était rêvée pour partager ce moment intense avec des compositeurs bien vivants.
-Que deviendra la musique si on ne joue pas les compositeurs d'aujourd'hui ? »
+Que deviendra la musique si on ne joue pas les compositeurs d'aujourd'hui ?
 
 Les pièces bouleversantes de compositeurs anonymes
-« Je me suis rendu compte, poursuit Geeviève Laurenceau, qu'il y avait une attente de tous
+Je me suis rendu compte, poursuit Geeviève Laurenceau, qu'il y avait une attente de tous
 les côtés. Un de mes étudiants m'a ainsi envoyé une très belle partition alors que je ne savais même
 pas qu'il composait. J'en ai reçu une autre d'un musicien qui m'avait vue en concert il y a quelques années.
 C'est incroyable. Les gens ont ce besoin de musique, de partage. C'est une expérience merveilleuse qui va bousculer durablement mon rapport à la musique et à mon métier », s'enthousiasme la violoniste.
 
-LIRE AUSSI > Des décors miniatures qui ont touché les internautes confinés
-
 ARTICLE 15
 Il faut dire que son initiative rencontre un succès inattendu. D'abord parce que
 le nombre d'auditeurs explose, mais aussi parce que plusieurs compositeurs, souvent anonymes,
-lui ont transmis des pièces qui la bouleversent elle-même. « J'ai vraiment reçu des choses
+lui ont transmis des pièces qui la bouleversent elle-même. J'ai vraiment reçu des choses
 très belles émotionnellement. Il y a de la joie, de la violence. C'est sûr que ça va se
 prolonger très au-delà du confinement. A tel point que je songe déjà à un spectacle
-qui intégrera certains des morceaux que j'ai découverts grâce à cette expérience ! »
+qui intégrera certains des morceaux que j'ai découverts grâce à cette expérience !
 
 Que fait un scénariste de BD d'humour pendant le confinement?
 Il continue à essayer, malgré l'ambiance un peu morose, de trouver des gags et de les partager!
 C'est le cas de Sti, de son vrai nom Ronan Lefebvre, auteur à 45 ans de la série à succès
-« les Footmaniacs » (17 tomes chez Bamboo, un million d'exemplaires vendus) mais aussi
-depuis deux albums des « Profs » (5 millions d'exemplaires), en collaboration avec leur créateur, Erroc.
+les Footmaniacs (17 tomes chez Bamboo, un million d'exemplaires vendus) mais aussi
+depuis deux albums des Profs (5 millions d'exemplaires), en collaboration avec leur créateur, Erroc.
 
 Confiné au Havre, malade quelques jours du coronavirus comme sa compagne,
-il n'a pour autant pas lâché le crayon. « C'est un peu plus difficile que d'habitude.
+il n'a pour autant pas lâché le crayon. C'est un peu plus difficile que d'habitude.
 Les auteurs de BD sont des ours qui ont besoin d'être seuls. Là, avec les enfants, mon amie en permanence
 à la maison, il y a toujours quelqu'un pour venir me parler, me proposer gentiment un gâteau, plaisante-t-il.
-Et je ne peux même pas sortir un peu pour m'aérer, trouver de l'inspiration à l'extérieur. »
+Et je ne peux même pas sortir un peu pour m'aérer, trouver de l'inspiration à l'extérieur.
 
-«Si on peut faire rire les gens cinq minutes…»
+Si on peut faire rire les gens cinq minutes…
 A en croire les sites Internet, la source n'est pas complètement tarie. Sur Facebook,
-il imagine avec Erroc et le dessinateur Pica les différents « Profs » en proie au coronavirus.
+il imagine avec Erroc et le dessinateur Pica les différents Profs » en proie au coronavirus.
 Pour « les Footmaniacs », surtout, il publie des mini-vidéos imaginant
 les conséquences de la pandémie pour les joueurs et les amateurs de ballon rond.
-« Si on peut faire rire les gens cinq minutes, leur faire oublier le confinement et le virus,
+Si on peut faire rire les gens cinq minutes, leur faire oublier le confinement et le virus,
 ça serait vraiment dommage de s'en priver. Pour nous, c'est aussi une petite récré très sympa.
 D'autant qu'avec les réseaux on a tout de suite la réaction des fans.
 Je crois que c'est devenu une sorte de bonne habitude chez les auteurs de BD. A chaque coup dur dans
-le pays, je pense à Charlie par exemple, on est très réactifs. On se sent investi d'une sorte de mission »,
+le pays, je pense à Charlie par exemple, on est très réactifs. On se sent investi d'une sorte de mission,
 constate Sti.
 
 En l'occurrence, le travail de Sti ne sera pas seulement de circonstance.
-« Notre prochain album, qui devait paraître en juin, était consacré à l'Euro de football.
+Notre prochain album, qui devait paraître en juin, était consacré à l'Euro de football.
 Comme il a été reporté, notre BD aussi… Alors on va garder ces gags sur
-le confinement pour construire le nouveau Footmaniacs qui devrait sortir cet été »,
-annonce le scénariste qui cultive un espoir. « Il y a plein d'opérations en ce moment sur Internet
+le confinement pour construire le nouveau Footmaniacs qui devrait sortir cet été,
+annonce le scénariste qui cultive un espoir. Il y a plein d'opérations en ce moment sur Internet
 pour découvrir des albums gratuitement, dont certains des miens. J'espère que
 cela donnera envie à plein de lecteurs, une fois que ça sera derrière nous, d'aller
-dans les librairies pour acheter des BD ! »
+dans les librairies pour acheter des BD !
 
 
 ARTICLE 16
@@ -554,14 +551,14 @@ Celle de Robert Herbin, le sphinx stéphanois, décédé mardi à 81 ans, pourra
 au pied de Geoffroy-Guichard, le mythique stade des Verts.
 
 L'idée a d'abord été lancée par un site, peuple-vert.fr, qui a recueilli près de 4 000 signatures
-sur une pétition en ligne. « C'est quelque chose qui se fait beaucoup en Angleterre et pas du tout en France,
+sur une pétition en ligne. C'est quelque chose qui se fait beaucoup en Angleterre et pas du tout en France,
 explique Alexandre Sanfilippo, le créateur du site. Geoffroy-Guichard est un stade à l'anglaise
-et l'idée nous semble coller parfaitement à l'histoire de notre club. »
+et l'idée nous semble coller parfaitement à l'histoire de notre club.
 
 Le club de Saint-Etienne a déjà décidé de baptiser son centre d'entraînement du nom d'Herbin,
-mais ne peut rien faire devant ou à l'intérieur du stade. « Nous ne sommes que locataire exclusif
+mais ne peut rien faire devant ou à l'intérieur du stade. Nous ne sommes que locataire exclusif
 du stade et cela signifie que nous ne pouvons y construire ce qu'on veut, explique-t-on au club.
-Mais nous soutenons cette belle idée. »
+Mais nous soutenons cette belle idée.
 
 La Métropole pas opposée
 Le stade appartient à la Métropole de Saint-Etienne et le maire LR de la ville, et aussi président
@@ -570,18 +567,18 @@ l'hommage qu'il mérite, lâche ce dernier. Toutes les pistes sont étudiées. O
 le nom d'une tribune du stade ou bien, effectivement, de lui construire une statue. »
 
 Pour Gaël Perdriau, un consensus municipal serait facilement trouvé.
-« Je ne crois pas qu'un vote soit nécessaire pour décider de rendre hommage à Herbin, poursuit-il.
+Je ne crois pas qu'un vote soit nécessaire pour décider de rendre hommage à Herbin, poursuit-il.
 Il a tant fait pour la ville. Après, il faudra se poser des questions comme Qui paie la construction?
 ou Où la posera-t-on ? Mais il faudra faire quelque chose de beau pour que les Stéphanois,
-qui en sont empêchés en ce moment, puissent se recueillir. »
+qui en sont empêchés en ce moment, puissent se recueillir.
 
 Un hommage revu à cause du confinement
 Le cercueil d'Herbin, qui sera inhumé lundi 4 mai, devait être visible par les Stéphanois ce week-end, mais la préfecture de la Loire, pour limiter les risques sanitaires liés de pandémie, a décidé d'annuler son exposition. La mairie, en attendant mieux, fera installer dès mercredi prochain, sur la façade de l'hôtel de ville, une immense bâche avec le visage du coach disparu et les mots « Merci Robert Herbin ».
 
-« Il a fallu trouver en quelques jours une entreprise capable, en plein confinement,
-de confectionner cette bâche », poursuit Gaël Perdriau. En parallèle, sur le site officiel
+Il a fallu trouver en quelques jours une entreprise capable, en plein confinement,
+de confectionner cette bâche, poursuit Gaël Perdriau. En parallèle, sur le site officiel
 de la ville saint-etienne.fr, nous ouvrirons un livre d'or afin que chacun y dépose un mot d'hommage.
-Mais nous ferons mieux après le confinement. »
+Mais nous ferons mieux après le confinement.
 
 ARTICLE 18
 Par H.M.
@@ -600,12 +597,12 @@ L'exercice est destiné aux enfants âgés de 6 à 12 ans et est disponible en a
 en espagnol et en néerlandais. Les enfants doivent simplement se munir d'un stylo et d'une feuille de papier,
 puis choisir une vidéo et écrire un court extrait d'un célèbre livre ou poème pour enfants lu par la star,
 qui fait office de Champions Teacher. Le corrigé de la dictée peut ensuite être téléchargé au format PDF.
-Guy Stéphan a lu, lui, « le Cancre » la poésie de Jacques Prévert. « On m'avait proposé une liste de
+Guy Stéphan a lu, lui, le Cancre » la poésie de Jacques Prévert. « On m'avait proposé une liste de
 textes avec notamment le petit chaperon rouge. Mais je n'étais pas obligé d'en retenir un.
 J'ai préféré choisir le Cancre. Ca correspond bien à l'école, je trouve.
 Ce poème montre qu'on peut réussir sans être vraiment dans les clous.
 Il n'y a pas de ponctuation, il s'agit d'une de ses originalités,
-mais il n'est pas très difficile pour autant ».
+mais il n'est pas très difficile pour autant.
 
 Homme de cœur et de conviction, Guy Stéphan s'est prêté volontiers à cet exercice.
 Il s'agit un peu pour l'adjoint de Deschamps d'un retour aux sources. Joueur à Guingamp,
@@ -614,8 +611,8 @@ d'éducation physique.
 
 Par ailleurs, Stéphan, également ancien joueur de l'US Orléans,
 a offert un maillot dédicacé des Bleus après leur titre mondial remporté en 2018, au profit
-de la vente « Un cœur Un Maillot ». Les bénéfices seront également reversés,
-via le fonds de dotation « J'aime mon enfant différent » au personnel soignant,
+de la vente d'un cœur Un Maillot. Les bénéfices seront également reversés,
+via le fonds de dotation J'aime mon enfant différent  au personnel soignant,
 en priorité du centre hospitalier régional d'Orléans, qui lutte contre l'épidémie du coronavirus.
 À ce jour, les enchères qui s'achèvent le dimanche 3 mai, ont déjà atteint la somme de 5200 euros.
 
@@ -699,7 +696,8 @@ Internet et d’y télécharger des centaines d’applications.
 C’est là que vous êtes devenue accro. Comme greffé à
 votre corps, votre mobile est désormais un prolongement de
 vous-même qui vous accompagne jusque dans votre salle de
-bains ou vos toilettes. Où que vous soyez, vous laissez rarement passer plus d’une demi-heure sans regarder votre
+bains ou vos toilettes. Où que vous soyez, vous laissez rarement passer plus d’une demi-heure
+sans regarder votre
 écran, guettant un appel resté en absence, un message intime
 ou amical. Et si votre boîte mail est vide, vous cliquez pour
 vérifier qu’aucun courrier n’est en attente.
@@ -714,12 +712,12 @@ votre sac et vous prenez conscience que votre mobile a
 disparu. Perdu ? Volé ? Non, vous refusez d’y croire. Vous
 vérifiez à nouveau sans plus de succès, essayant de
 vous persuader que vous l’avez oublié au bureau, mais…
-non : vous vous souvenez de l’avoir consulté dans l’ascenseur en quittant le boulot et – sans doute –
+non : vous vous souvenez de l’avoir consulté dans l’ascenseur en quittant le boulot et sans doute
 dans le métro et dans le bus.
 Zut !
 D’abord, vous êtes en colère à cause de la perte de l’appareil lui-même, puis vous vous félicitez
 d’avoir souscrit cette
-assurance « vol/perte/casse », tout en comptant les points de
+assurance vol/perte/casse , tout en comptant les points de
 fidélité qui, dès demain, vous permettront de vous offrir un
 nouveau jouet high-tech et tactile.
 Pourtant, à 3 heures du matin, vous n’avez toujours pas
@@ -789,23 +787,23 @@ le sol son téléphone, son sac et ses clés.
 Jonathan se pencha vers son fils pour le rassurer, ramassant le sandwich protégé
 par un emballage en plastique ainsi
 que la bouteille d’eau et son portable.
-– J’avais vu cette table en premier ! s’indigna-t-il. Nous
+J’avais vu cette table en premier ! s’indigna-t-il. Nous
 étions pratiquement assis lorsque vous avez déboulé comme
 une avalanche sans même…
-– Vous plaisantez ? J’ai repéré cette table bien avant vous !
+Vous plaisantez ? J’ai repéré cette table bien avant vous !
 
 La colère de la jeune femme soulignait un accent anglais
 jusqu’alors imperceptible.
-– Quoi qu’il en soit, vous êtes seule alors que je suis avec
+Quoi qu’il en soit, vous êtes seule alors que je suis avec
 un enfant.
-– La belle excuse ! Je ne vois pas en quoi le fait d’avoir un
+La belle excuse ! Je ne vois pas en quoi le fait d’avoir un
 mioche vous donne le droit de me rentrer dedans et de
 bousiller mon chemisier ! déplora-t-elle en découvrant la
 tache de vin qui maculait son cache-cœur.
 Consterné, Jonathan secoua la tête et leva les yeux au ciel.
 Il ouvrit la bouche pour protester, mais Madeline le prit de
 vitesse :
-– Et puis d’abord, je ne suis pas seule ! assura-t-elle en
+Et puis d’abord, je ne suis pas seule ! assura-t-elle en
 apercevant Raphaël.
 Jonathan haussa les épaules et prit la main de Charly.
 – Viens, on va ailleurs. Pauvre gourde…, lança-t-il en quittant le restaurant.
@@ -842,53 +840,48 @@ j’ai déjà plusieurs commandes en attente.
 Elle écouta d’abord son répondeur où une voix
 traînante et endormie qui lui était totalement
 inconnue avait laissé un message :
-« Salut Jon’, c’est Marcus. Euh… j’ai eu un p’tit
+Salut Jon’, c’est Marcus. Euh… j’ai eu un p’tit
 souci avec la 4L : une fuite d’huile qui… bon, je t’expliquerai plus tard. Enfin, tout ça pour te dire que je
 risque d’être un peu en retard. S’cuse… »
 Qui est donc cet hurluberlu ? se demanda-t-elle
 en raccrochant. Quelqu’un qui aurait composé un
 faux numéro ? Hum…
-
-– Quels canards ?
-– Les cuisses de canard et la roquette que nous livre Bob
+Quels canards ? Les cuisses de canard et la roquette que nous livre Bob
 Woodmark tous les vendredis !
-– Ah ! je me disais bien que j’avais oublié un truc !
-– Bougre de grande bourrique ! s’énerva Jonathan.
-Comment peux-tu oublier la seule chose à laquelle je t’avais
-demandé de penser ?
-– Ce n’est pas dramatique non plus… maugréa Marcus.
-– Si justement ! Même si Woodmark est imbuvable, sa
+Ah ! je me disais bien que j’avais oublié un truc ! Bougre de grande bourrique ! s’énerva Jonathan.
+Comment peux-tu oublier la seule chose à laquelle je t’avais demandé de penser ?
+Ce n’est pas dramatique non plus… maugréa Marcus.
+Si justement ! Même si Woodmark est imbuvable, sa
 ferme nous fournit nos meilleurs produits. Si tu lui as posé
 un lapin, il va nous prendre en grippe et ne voudra plus de
 nous comme clients. Fais un détour par le restaurant : je te
 parie qu’il a laissé sa cargaison dans l’arrière-cour.
-– Je peux voir ça tout seul, assura Marcus. Je vous ramène
-d’abord à la mais…
-– Non ! le coupa Jonathan. Tu n’es qu’un traîne-savates sur
+Je peux voir ça tout seul, assura Marcus. Je vous ramène d’abord à la mais…
+Non ! le coupa Jonathan. Tu n’es qu’un traîne-savates sur
 qui on ne peut pas compter, donc je vais prendre les choses
 en main.
-– Mais le petit est crevé !
-– Non, non ! se réjouit Charly. Je veux aller au restaurant,
+Mais le petit est crevé !
+Non, non ! se réjouit Charly. Je veux aller au restaurant,
 moi aussi !
-– Comme ça, c’est réglé, trancha Jonathan. Prends l’embranchement au niveau de la 3e Rue, ordonna-t-il en
+Comme ça, c’est réglé, trancha Jonathan. Prends l’embranchement au niveau de la 3e Rue, ordonna-t-il en
 essuyant avec sa manche la buée qui se condensait sur le
 pare-brise.
 Mais la vieille 4L n’aimait pas être bousculée dans son
 itinéraire. Ses pneus étroits manquaient d’adhérence et le
 changement brutal de direction faillit provoquer un accident.
-– Tu vois bien que tu ne contrôles pas ce tas de boue ! cria
+Tu vois bien que tu ne contrôles pas ce tas de boue ! cria
 Jonathan. Putain, tu vas nous tuer !
-– Je fais ce que je peux ! assura Marcus en redressant le
+Je fais ce que je peux ! assura Marcus en redressant le
 volant dans un concert de klaxons exaspérés.
 Tout en remontant Kearney Street, le tacot retrouva un
 semblant de stabilité.
-– C’est parce que tu as revu ma sœur que tu es dans cet
+C’est parce que tu as revu ma sœur que tu es dans cet
 état-là ? demanda Marcus après un long silence.
 
-– Francesca n’est que ta demi-sœur, corrigea Jonathan.
-– Comment va-t-elle ?
+Francesca n’est que ta demi-sœur, corrigea Jonathan.
+Comment va-t-elle ?
 Jonathan lui jeta un regard hostile.
-– Si tu crois qu’on a fait la causette…
+Si tu crois qu’on a fait la causette…
 Marcus savait que le sujet était sensible et n’insista pas. Il
 se concentra sur sa conduite pour rejoindre Columbus
 Avenue et garer sa « titine » devant une brasserie portant
@@ -906,28 +899,28 @@ français des années 1930 : boiseries, moulures, sol en
 mosaïque, immenses miroirs Belle Époque, vieilles affiches
 de Joséphine Baker, Maurice Chevalier et Mistinguett.
 L’établissement proposait une cuisine française traditionnelle, sans prétention, sans chichis. Sur l’ardoise accrochée
-au mur, on pouvait lire : « feuilleté d’escargots au miel,
-magret de canard à l’orange, tarte tropézienne… ».
-– Je peux avoir une glace, papa ? demanda Charly en s’installant devant le zinc rutilant qui trônait le long de la salle.
-– Non, chéri.Tu en as mangé des kilos dans l’avion. Et puis,
+au mur, on pouvait lire : feuilleté d’escargots au miel,
+magret de canard à l’orange, tarte tropézienne….
+Je peux avoir une glace, papa ? demanda Charly en s’installant devant le zinc rutilant qui trônait le long de la salle.
+Non, chéri.Tu en as mangé des kilos dans l’avion. Et puis,
 il est très tard, tu devrais déjà être au lit depuis longtemps.
-– Mais c’est les vacances…
-– Allez, Jon’, sois cool ! demanda Marcus.
-– Ah, non, tu ne vas pas t’y mettre toi aussi !
-– Mais c’est Noël !
-– Deux gosses ! ne put s’empêcher de sourire Jonathan.
+Mais c’est les vacances…
+Allez, Jon’, sois cool ! demanda Marcus.
+Ah, non, tu ne vas pas t’y mettre toi aussi !
+Mais c’est Noël !
+Deux gosses ! ne put s’empêcher de sourire Jonathan.
 Il prit place au bout du restaurant, derrière le comptoir de
 la cuisine ouverte qui permettait aux convives de suivre en
 partie la préparation des plats.
-– Qu’est-ce qui te ferait plaisir ? demanda-t-il à son fils.
+Qu’est-ce qui te ferait plaisir ? demanda-t-il à son fils.
 
-– Une Dame blanche ! s’enthousiasma le gamin.
-Avec dextérité, le « cuistot » cassa quelques carrés de
+Une Dame blanche ! s’enthousiasma le gamin.
+Avec dextérité, le cuistot cassa quelques carrés de
 chocolat noir dans une petite jatte pour les faire fondre au
 bain-marie.
-– Et pour toi ? demanda-t-il à Marcus.
-– On pourrait ouvrir une bouteille de vin…
-– Si tu veux.
+Et pour toi ? demanda-t-il à Marcus.
+On pourrait ouvrir une bouteille de vin…
+Si tu veux.
 Un large sourire éclaira le visage de Marcus. Il quitta son
 siège avec entrain pour rejoindre son lieu de prédilection : la
 cave du restaurant.
@@ -937,16 +930,16 @@ vanille accompagnées d’une meringue. Une fois le chocolat
 fondu, il y incorpora une cuillerée de crème fleurette. Il
 versa le chocolat chaud sur la crème glacée et recouvrit le
 tout de chantilly et d’amandes grillées.
-– Enjoy ! dit-il en piquant une petite ombrelle sur le dôme
+Enjoy ! dit-il en piquant une petite ombrelle sur le dôme
 de crème.
 Le père et le fils s’installèrent à une table, assis côte à côte
 sur une banquette moelleuse. Des étoiles dans les yeux,
 Charly s’arma d’une longue cuillère et commença sa dégustation.
-– Vise un peu cette merveille ! s’enflamma Marcus en
+Vise un peu cette merveille ! s’enflamma Marcus en
 revenant de la cave.
-– Un screaming eagle 1997 ! Tu délires ou quoi ? Ce genre
+Un screaming eagle 1997 ! Tu délires ou quoi ? Ce genre
 de bouteille est réservé aux clients !
-– Allez ! Ce sera mon cadeau de Noël, implora-t-il.
+Allez ! Ce sera mon cadeau de Noël, implora-t-il.
 Après une résistance purement formelle, Jonathan accepta
 d’ouvrir le grand cru. À tout prendre, mieux valait que
 Marcus boive quelques verres au restaurant. Il pourrait au
@@ -957,7 +950,7 @@ de s’enchaîner. À plusieurs reprises, certains de ses compagnons de beuverie
 crédulité pour le plumer au poker et lui faire signer des
 reconnaissances de dette fantaisistes que Jonathan avait eu
 ensuite toutes les peines du monde à récupérer.
-– Admire la couleur de ce nectar ! s’extasia Marcus en
+Admire la couleur de ce nectar ! s’extasia Marcus en
 versant le vin dans une carafe pour le faire décanter.
 Enfant illégitime du père de Francesca et d’une chanteuse
 de country québécoise, Marcus n’avait pas touché un
@@ -983,14 +976,14 @@ s’était démené pour convaincre les repreneurs de transformer l’endroit en
 Jonathan de reprendre pied. À peine avait-il senti son ami
 sauvé que Marcus était retombé dans sa flémingite aiguë.
 
-– À la tienne ! lança-t-il en tendant à Jonathan un verre de
+À la tienne ! lança-t-il en tendant à Jonathan un verre de
 vin.
-– Donc, c’est Noël avant l’heure, conclut le Français en
+Donc, c’est Noël avant l’heure, conclut le Français en
 allumant le poste de radio Art déco qu’il avait récupéré dans
 un marché aux puces de Pasadena.
 Il régla l’appareil sur une station rock qui diffusait une
 version live de Light My Fire.
-– Ah ! c’est bon ça ! s’extasia Marcus en se calant au fond
+Ah ! c’est bon ça ! s’extasia Marcus en se calant au fond
 de la banquette, sans que l’on sache s’il parlait du cabernet
 ou de la musique des Doors.
 Jonathan essaya à son tour de se détendre. Il déboutonna
@@ -1012,11 +1005,11 @@ qu’il l’avait croisée à l’aéroport. Deux ans après, la douleur
 était toujours aussi vive. Presque insoutenable. Il ouvrit les
 yeux et prit une gorgée de vin pour chasser son image. Il
 n’avait pas la vie qu’il avait espérée, mais c’était la sienne.
-– Eh ! pas mal la nana ! s’exclama Marcus tandis que ses
+Eh ! pas mal la nana ! s’exclama Marcus tandis que ses
 doigts graisseux glissaient sur l’écran tactile pour faire
 défiler les photos que contenait le cellulaire.
 Intrigué, Jonathan passa une tête par-dessus l’écran.
-– Fais voir.
+Fais voir.
 Parmi les clichés de la jeune femme, certains étaient gentiment érotiques.
 Des poses suggestives immortalisées en noir
 
@@ -1024,9 +1017,9 @@ et blanc : dentelles fines, jarretelles en satin, main relevée
 cachant pudiquement un sein ou effleurant le galbe d’une
 hanche. Rien de bien méchant à l’heure où certains
 mettaient en ligne leur sex-tape sur le web…
-– Je peux voir, papa ? demanda Charly en sortant de son
+Je peux voir, papa ? demanda Charly en sortant de son
 sommeil.
-– Non, non. Rendors-toi. Ce n’est pas pour les enfants.
+Non, non. Rendors-toi. Ce n’est pas pour les enfants.
 Surprenant tout de même qu’avec son air pincé de
 pimbêche bon chic, bon genre, la peste de l’aéroport avait
 fait elle aussi sa petite séance de poses coquines.
@@ -1037,13 +1030,13 @@ instant pour Helmut Newton. Qui était derrière l’appareil ?
 Son mari ? Son amant ? Jonathan se souvenait d’avoir
 aperçu un homme à l’aéroport, mais il était incapable de se
 rappeler sa tête.
-– Bon allez, ça suffit ! trancha-t-il en reposant le téléphone
+Bon allez, ça suffit ! trancha-t-il en reposant le téléphone
 sous le regard déçu de Marcus.
 Se sentant soudain voyeur, il se demanda de quel droit il
 fouillait dans la vie privée de cette femme.
-– Comme si elle allait se gêner pour faire pareil ! lui fit
+Comme si elle allait se gêner pour faire pareil ! lui fit
 remarquer le Canadien.
-– Je m’en contrefous : il n’y a aucun risque qu’elle trouve
+Je m’en contrefous : il n’y a aucun risque qu’elle trouve
 ce genre de photos dans mon téléphone ! s’exclama-t-il en se
 servant un verre de screaming eagle. Si tu crois que je me
 suis déjà amusé à prendre Popaul en photo…
@@ -1073,7 +1066,7 @@ ville. Quelle que soit la tristesse d’une journée, elle voulait
 que ses clients mettent leurs soucis entre parenthèses dès
 qu’ils franchissaient le seuil de sa boutique. Au moment de
 Noël, l’atmosphère de son Jardin Extraordinaire était particulièrement enchanteresse, renvoyant aux parfums de l’enfance et aux traditions d’antan.
-Une fois les « premiers soins » terminés, la jeune femme
+Une fois les premiers soins terminés, la jeune femme
 sortit les sapins pour les installer contre la devanture et
 ouvrit sa boutique à 9 heures tapantes.
 
