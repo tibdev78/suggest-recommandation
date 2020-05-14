@@ -1,22 +1,15 @@
 package com.suggest.recommandation.tools;
 
 import com.suggest.recommandation.utils.Variable;
-import org.apache.log4j.Level;
-import org.apache.log4j.Logger;
-import org.apache.spark.sql.Dataset;
-import org.apache.spark.sql.Row;
-import org.apache.spark.sql.SparkSession;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 import java.util.Scanner;
 
 public class TestCsvWriter {
-    private final static String PATH = TestCsvWriter.class.getClassLoader().getResource("food.csv").getFile();
+    private final static String PATH = CsvWriter.class.getClassLoader().getResource("food.csv").getFile();
 
     private static void generate2GramFromCsv(String file) throws FileNotFoundException {
         try (PrintWriter writer = new PrintWriter(new File(file))) {

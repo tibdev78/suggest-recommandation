@@ -1,7 +1,6 @@
 package com.suggest.recommandation.tools;
 
-import com.suggest.recommandation.ngrams.CsvToRank;
-import com.suggest.recommandation.ngrams.TxtToRank;
+import com.suggest.recommandation.ngrams.TxtToCount;
 import com.suggest.recommandation.utils.Variable;
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Level;
@@ -17,12 +16,12 @@ import java.io.IOException;
 
 public class TestTxtToCount {
     private final static SparkSession session = SparkSession.builder().appName("suggest recommandation").master("local[2]").getOrCreate();
-
+    private final TxtWriter txtWriter = new TxtWriter();
     private static void testSql(String tempName, File path, File directory, String fileName) throws Exception {
         Logger.getLogger("org").setLevel(Level.OFF);
         Logger.getLogger("akka").setLevel(Level.OFF);
-        Dataset<Row> counter = TxtToRank.counterRow(fileName, tempName, path.toString(), session);
-        if (directory.exists()) FileUtils.deleteDirectory(directory);
+        Dataset<Row> counter = TxtToCount.counterRow(fileName, tempName, path.toString(), session);
+
         counter.write()
                 .option("header", "true")
                 .option("inferSchema", "true")
@@ -43,7 +42,12 @@ public class TestTxtToCount {
         String[] files = new File(directory.toString()).list();
         int count = 0;
         for (String pathname : files) {
-            new File(directory.toString() + "/" + pathname).renameTo(new File(directory.toString() + "/" + ++count + ".csv"));
+            File currentFile = new File(directory.toString() + "/" + pathname);
+            if (currentFile.length() > 0) {
+                currentFile.renameTo(new File(directory.toString() + "/" + ++count + ".csv"));
+            } else {
+                FileUtils.deleteQuietly(currentFile);
+            }
         }
         File countFile = new File("output/" + filename + ".txt");
         countFile.createNewFile();

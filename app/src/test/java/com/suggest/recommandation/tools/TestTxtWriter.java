@@ -1,22 +1,18 @@
 package com.suggest.recommandation.tools;
 
 import com.suggest.recommandation.utils.Variable;
-import org.junit.Test;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.FilenameFilter;
 import java.io.PrintWriter;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
 public class TestTxtWriter {
 
     private static final Pattern p = Pattern.compile("[$«»()\\”\\“\\\"\\-\\–\\…\\...&%+,.:;=!?@#|]");
-    private final static String PATH = TestTxtWriter.class.getClassLoader().getResource("general.txt").getFile();
+    private final static String PATH = TxtWriter.class.getClassLoader().getResource("general.txt").getFile();
 
     private static void generate2GramFromTXT(String path) throws FileNotFoundException {
         try (PrintWriter writer = new PrintWriter(new File(path))) {

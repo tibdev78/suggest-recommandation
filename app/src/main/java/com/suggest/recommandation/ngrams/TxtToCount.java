@@ -4,7 +4,7 @@ import org.apache.spark.sql.Dataset;
 import org.apache.spark.sql.SparkSession;
 import org.apache.spark.sql.Row;
 
-public class TxtToRank {
+public class TxtToCount {
     public static Dataset<Row> counterRow(String name, String tempName, String path, SparkSession session) throws Exception {
         Dataset<Row> txt = session.read()
                 .option("inferSchema","true")
