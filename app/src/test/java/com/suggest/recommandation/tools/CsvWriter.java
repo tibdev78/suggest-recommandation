@@ -1,15 +1,13 @@
 package com.suggest.recommandation.tools;
 
+import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
 import org.apache.spark.sql.Dataset;
 import org.apache.spark.sql.Row;
 import org.apache.spark.sql.SparkSession;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FilenameFilter;
-import java.io.PrintWriter;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -118,7 +116,7 @@ public class CsvWriter {
                 .csv("output/" + name);
     }
 
-    private static void handleFiles(String directory) {
+    private static void removeUselessFiles(String directory) {
         FilenameFilter filter = (f, name) -> name.endsWith(".crc");
         String[] crcFiles = new File("./output/" + directory).list(filter);
         new File("output/" + directory + "_SUCCESS").delete();
@@ -127,12 +125,31 @@ public class CsvWriter {
         }
     }
 
+    private static void handleFiles(String filename) throws IOException {
+        String directory = filename + ".csv/";
+        String[] files = new File("./output/" + directory).list();
+        int count = 0;
+        for (String pathname : files) {
+            new File("output/" + directory + pathname).renameTo(new File("output/" + directory + ++count + ".csv"));
+        }
+        File countFile = new File("output/" + filename + ".txt");
+        countFile.createNewFile();
+        FileWriter myWriter = new FileWriter(countFile);
+        myWriter.write(Integer.toString(count));
+        myWriter.close();
+
+        new File("output/step1_" + filename + ".csv").delete();
+    }
+
     public static void main(String[] args) throws Exception {
+        FileUtils.cleanDirectory(new File("output/"));
         generate2GramFromCsv();
         generate3GramFromCsv();
         generatePartsCsv("2Gram.csv", "DEUXGRAMS");
         generatePartsCsv("3Gram.csv", "TROISGRAM");
-        handleFiles("2Gram.csv/");
-        handleFiles("3Gram.csv/");
+        removeUselessFiles("2Gram.csv/");
+        removeUselessFiles("3Gram.csv/");
+        handleFiles("2Gram");
+        handleFiles("3Gram");
     }
 }
