@@ -21,7 +21,7 @@ public class CsvWriter {
             "hors","jusque","malgré","moyennant","nonobstant","outre","par","parmi", "aux",
             "pendant","pour","près","sans","sauf","selon","sous","suivant","sur","touchant","vers","via",
             "avant", "après", "au", "grâce","hors","loin","lors","par","par suite","près",
-            "proche","quant","quitte","sauf","sous", "et"
+            "proche","quant","quitte","sauf","sous", "et", "du"
     );
     private final static String PATH = CsvWriter.class.getClassLoader().getResource("food.csv").getFile();
 
