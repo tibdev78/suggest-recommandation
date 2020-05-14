@@ -8,6 +8,7 @@ import org.apache.spark.sql.SparkSession;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FilenameFilter;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -114,13 +115,24 @@ public class CsvWriter {
                 .option("header", "true")
                 .option("inferSchema", "true")
                 .option("delimiter", ",")
-                .csv("output/step2_" + name);
+                .csv("output/" + name);
+    }
+
+    private static void handleFiles(String directory) {
+        FilenameFilter filter = (f, name) -> name.endsWith(".crc");
+        String[] crcFiles = new File("./output/" + directory).list(filter);
+        new File("output/" + directory + "_SUCCESS").delete();
+        for (String pathname : crcFiles) {
+            new File("output/" + directory + pathname).delete();
+        }
     }
 
     public static void main(String[] args) throws Exception {
-//        generate2GramFromCsv();
-//        generate3GramFromCsv();
+        generate2GramFromCsv();
+        generate3GramFromCsv();
         generatePartsCsv("2Gram.csv", "DEUXGRAMS");
         generatePartsCsv("3Gram.csv", "TROISGRAM");
+        handleFiles("2Gram.csv/");
+        handleFiles("3Gram.csv/");
     }
 }
