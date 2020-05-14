@@ -1,9 +1,11 @@
 package com.suggest.recommandation.tools;
 
 import com.suggest.recommandation.utils.Variable;
+import org.junit.Test;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FilenameFilter;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -16,7 +18,7 @@ public class TestTxtWriter {
     private static final Pattern p = Pattern.compile("[$«»()\\”\\“\\\"\\-\\–\\…\\...&%+,.:;=!?@#|]");
     private final static String PATH = TestTxtWriter.class.getClassLoader().getResource("general.txt").getFile();
 
-    public static void generate2GramFromTXT(String path) throws FileNotFoundException {
+    private static void generate2GramFromTXT(String path) throws FileNotFoundException {
         try (PrintWriter writer = new PrintWriter(new File(path))) {
             String sb = "PREVIOUS,CURRENT"  + '\n';
             writer.write(sb);
@@ -101,8 +103,8 @@ public class TestTxtWriter {
         }
     }
 
-    public static void main(String[] args) throws FileNotFoundException {
-        //generate2GramFromTXT(Variable.twoGramCorpusFile.toString());
+    public static void writerFileTxt() throws FileNotFoundException {
+        generate2GramFromTXT(Variable.twoGramCorpusFile.toString());
         generate3GramFromTXT(Variable.threeGramCorpusFile.toString());
     }
 }

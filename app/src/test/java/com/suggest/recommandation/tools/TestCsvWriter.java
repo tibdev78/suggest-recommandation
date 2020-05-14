@@ -81,8 +81,9 @@ public class TestCsvWriter {
         }
     }
 
-    public static void main(String[] args) throws Exception {
-        //generate2GramFromCsv(Variable.twoGramCustomFile.toString());
+
+    public static void writerCsvFile() throws Exception {
+        generate2GramFromCsv(Variable.twoGramCustomFile.toString());
         generate3GramFromCsv(Variable.threeGramCustomFile.toString());
     }
 }

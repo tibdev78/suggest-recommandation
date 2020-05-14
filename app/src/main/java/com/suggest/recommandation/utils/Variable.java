@@ -13,8 +13,10 @@ public class Variable {
     public final static File threeGramCustomFile = new File("output/step1_3Gram.csv");
     public final static File twoGramCustomDirectory = new File("output/step1_dir_2Gram.csv");
     public final static File threeGramCustomDirectory = new File("output/step1_dir_3Gram.csv");
-    public final static String twoGramsTempName = "DEUXGRAMS";
-    public final static String threeGramsTempName = "TROISGRAMS";
+    public final static String twoGramsCSVTempName = "DEUXGRAMSCSV";
+    public final static String threeGramsCSVTempName = "TROISGRAMSCSV";
+    public final static String twoGramsTXTTempName = "DEUXGRAMSTXT";
+    public final static String threeGramsTXTTempName = "TROISGRAMSTXT";
 
     public static final List<String> prepositions = Arrays.asList(
             "A","après","avant","avex","chez","concernant","contre","dans","de", "à", "la", "au",
