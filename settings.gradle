@@ -3,4 +3,6 @@ include 'reader'
 include 'ngrams'
 include 'tools'
 include 'app'
+include 'app:utils'
+findProject(':app:utils')?.name = 'variable'
 
