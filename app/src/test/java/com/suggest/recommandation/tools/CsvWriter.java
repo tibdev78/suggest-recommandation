@@ -120,7 +120,7 @@ public class CsvWriter {
     public static void main(String[] args) throws Exception {
 //        generate2GramFromCsv();
 //        generate3GramFromCsv();
-//        test2Gram();
         generatePartsCsv("2Gram.csv", "DEUXGRAMS");
+        generatePartsCsv("3Gram.csv", "TROISGRAM");
     }
 }
