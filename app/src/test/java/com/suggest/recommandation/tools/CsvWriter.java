@@ -1,5 +1,11 @@
 package com.suggest.recommandation.tools;
 
+import org.apache.log4j.Level;
+import org.apache.log4j.Logger;
+import org.apache.spark.sql.Dataset;
+import org.apache.spark.sql.Row;
+import org.apache.spark.sql.SparkSession;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
@@ -15,7 +21,7 @@ public class CsvWriter {
             "hors","jusque","malgré","moyennant","nonobstant","outre","par","parmi", "aux",
             "pendant","pour","près","sans","sauf","selon","sous","suivant","sur","touchant","vers","via",
             "avant", "après", "au", "grâce","hors","loin","lors","par","par suite","près",
-            "proche","quant","quitte","sauf","sous", "et"
+            "proche","quant","quitte","sauf","sous", "et", "du"
     );
     private final static String PATH = CsvWriter.class.getClassLoader().getResource("food.csv").getFile();
 
@@ -26,11 +32,11 @@ public class CsvWriter {
             Scanner myReader = new Scanner(new File(PATH));
             while (myReader.hasNextLine()) {
                 String data = myReader.nextLine();
-                String[] parts = data.replace("\"", "").split(" ");
+                String[] parts = data.replaceAll("[^A-Za-z0-9éèàê\\s]", "").split(" ");
                 ArrayList<String> cleanParts = new ArrayList<>();
                 StringBuilder builder = new StringBuilder();
                 for (String part : parts) {
-                    String word = part.trim();
+                    String word = part.toLowerCase().trim();
                     if (prepositions.contains(word)) builder.append(word).append(" ");
                     else {
                         if (builder.length() > 0) {
@@ -57,12 +63,12 @@ public class CsvWriter {
             Scanner myReader = new Scanner(new File(PATH));
             while (myReader.hasNextLine()) {
                 String data = myReader.nextLine();
-                String[] parts = data.replace("\"", "").split(" ");
+                String[] parts = data.replaceAll("[^A-Za-z0-9éèàê\\s]", "").split(" ");
 
                 ArrayList<String> cleanParts = new ArrayList<>();
                 StringBuilder builder = new StringBuilder();
                 for (String part : parts) {
-                    String word = part.trim();
+                    String word = part.toLowerCase().trim();
                     if (prepositions.contains(word)) builder.append(word).append(" ");
                     else {
                         if (builder.length() > 0) {
@@ -82,9 +88,39 @@ public class CsvWriter {
         }
     }
 
-    public static void main(String[] args) throws FileNotFoundException {
-        generate2GramFromCsv();
-        generate3GramFromCsv();
+    private static void generatePartsCsv(String name, String tempName) throws Exception {
+        Logger.getLogger("org").setLevel(Level.ERROR);
+        Logger.getLogger("akka").setLevel(Level.ERROR);
+        SparkSession session = SparkSession
+                .builder()
+                .appName("test ESGI")
+                .master("local[2]")
+                .getOrCreate();
+
+        Dataset<Row> content = session
+                .read()
+                .option("header", "true")
+                .option("inferSchema", "true")
+                .option("delimiter", ",")
+                .csv("output/step1_" + name);
+
+        content.show();
+        content.createTempView(tempName);
+
+        Dataset<Row> result = content
+                .sqlContext()
+                .sql("select PREVIOUS, CURRENT, count(*) from " + tempName + " group by PREVIOUS , CURRENT ORDER BY PREVIOUS, COUNT(*) desc");
+        result.write()
+                .option("header", "true")
+                .option("inferSchema", "true")
+                .option("delimiter", ",")
+                .csv("output/step2_" + name);
     }
 
+    public static void main(String[] args) throws Exception {
+//        generate2GramFromCsv();
+//        generate3GramFromCsv();
+        generatePartsCsv("2Gram.csv", "DEUXGRAMS");
+        generatePartsCsv("3Gram.csv", "TROISGRAM");
+    }
 }
