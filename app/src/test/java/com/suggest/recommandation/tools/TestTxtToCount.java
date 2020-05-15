@@ -21,7 +21,7 @@ public class TestTxtToCount {
         Logger.getLogger("org").setLevel(Level.OFF);
         Logger.getLogger("akka").setLevel(Level.OFF);
         Dataset<Row> counter = TxtToCount.counterRow(fileName, tempName, path.toString(), session);
-
+        counter.show();
         counter.write()
                 .option("header", "true")
                 .option("inferSchema", "true")

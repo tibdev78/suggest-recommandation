@@ -20,7 +20,6 @@ public class TxtToCount {
         Logger.getLogger("org").setLevel(Level.OFF);
         Logger.getLogger("akka").setLevel(Level.OFF);
         Dataset<Row> counter = com.suggest.recommandation.ngrams.TxtToCount.counterRow(fileName, tempName, path.toString(), session);
-
         counter.write()
                 .option("header", "true")
                 .option("inferSchema", "true")
