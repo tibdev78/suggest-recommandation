@@ -1,5 +1,6 @@
 package com.suggest.recommandation.tools;
 
+import com.suggest.recommandation.ngrams.TxtToCount;
 import com.suggest.recommandation.utils.Variable;
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Level;
@@ -13,13 +14,13 @@ import java.io.FileWriter;
 import java.io.FilenameFilter;
 import java.io.IOException;
 
-public class TxtToCount {
+public class TxtCount {
     private final static SparkSession session = SparkSession.builder().appName("suggest recommandation").master("local[2]").getOrCreate();
 
     private static void testSql(String tempName, File path, File directory, String fileName) throws Exception {
         Logger.getLogger("org").setLevel(Level.OFF);
         Logger.getLogger("akka").setLevel(Level.OFF);
-        Dataset<Row> counter = com.suggest.recommandation.ngrams.TxtToCount.counterRow(fileName, tempName, path.toString(), session);
+        Dataset<Row> counter = TxtToCount.counterRow(fileName, tempName, path.toString(), session);
         counter.write()
                 .option("header", "true")
                 .option("inferSchema", "true")
